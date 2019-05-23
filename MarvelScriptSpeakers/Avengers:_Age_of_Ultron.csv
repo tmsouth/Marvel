@@ -1,0 +1,975 @@
+0,announcer
+1,Iron Man
+2,Captain America
+3,Vision
+4,Thor
+5,Black Widow
+6,Hawkeye
+7,Iron Man
+8,Captain America
+9,Captain America
+10,Strucker
+11,fortresssoldier
+12,Strucker
+13,fortresssoldier
+14,Strucker
+15,fortresssoldier
+16,Strucker
+17,Dr. List
+18,Strucker
+19,Dr. List
+20,Strucker
+21,Vision
+22,Iron Man
+23,ironlegion
+24,ironlegion
+25,Strucker
+26,soldiers
+27,Strucker
+28,Dr. List
+29,Strucker
+30,Dr. List
+31,Dr. List
+32,Quicksilver
+33,Black Widow
+34,Captain America
+35,Black Widow
+36,Black Widow
+37,Black Widow
+38,Captain America
+39,Iron Man
+40,Vision
+41,Iron Man
+42,Iron Man
+43,Thor
+44,Captain America
+45,Black Widow
+46,Thor
+47,Captain America
+48,Thor
+49,Captain America
+50,Thor
+51,Iron Man
+52,Captain America
+53,Iron Man
+54,Iron Man
+55,fortresssoldier
+56,Iron Man
+57,Iron Man
+58,Black Widow
+59,Captain America
+60,Iron Man
+61,Vision
+62,Iron Man
+63,Iron Man
+64,Black Widow
+65,Captain America
+66,Strucker
+67,Captain America
+68,Strucker
+69,Captain America
+70,Captain America
+71,Captain America
+72,Strucker
+73,Captain America
+74,Iron Man
+75,Iron Man
+76,Captain America
+77,Captain America
+78,Quicksilver
+79,Black Widow
+80,Hulk
+81,Black Widow
+82,Hulk
+83,Black Widow
+84,Hulk
+85,Black Widow
+86,Thor
+87,Thor
+88,Iron Man
+89,Hulk
+90,Iron Man
+91,Vision
+92,Iron Man
+93,Vision
+94,Iron Man
+95,Thor
+96,Captain America
+97,Iron Man
+98,Iron Man
+99,Thor
+100,Iron Man
+101,Captain America
+102,Maria Hill
+103,Iron Man
+104,Captain America
+105,Maria Hill
+106,Captain America
+107,Maria Hill
+108,Captain America
+109,Maria Hill
+110,Maria Hill
+111,Captain America
+112,Maria Hill
+113,Captain America
+114,Maria Hill
+115,Captain America
+116,Hulk
+117,Iron Man
+118,Hulk
+119,Iron Man
+120,Vision
+121,Iron Man
+122,Vision
+123,Iron Man
+124,Vision
+125,Black Widow
+126,Dr. Helen Cho
+127,Hulk
+128,Dr. Helen Cho
+129,Iron Man
+130,Hawkeye
+131,Iron Man
+132,Dr. Helen Cho
+133,Hawkeye
+134,Dr. Helen Cho
+135,Iron Man
+136,Dr. Helen Cho
+137,Dr. Helen Cho
+138,Hulk
+139,Iron Man
+140,Hulk
+141,Vision
+142,Iron Man
+143,Hulk
+144,Iron Man
+145,Hulk
+146,Vision
+147,Iron Man
+148,Hulk
+149,Iron Man
+150,Hulk
+151,Iron Man
+152,Hulk
+153,Iron Man
+154,Hulk
+155,Iron Man
+156,Hulk
+157,Iron Man
+158,Hulk
+159,Iron Man
+160,Hulk
+161,Iron Man
+162,Hulk
+163,Iron Man
+164,Hulk
+165,Iron Man
+166,Hulk
+167,Iron Man
+168,Vision
+169,Iron Man
+170,Vision
+171,Iron Man
+172,Ultron
+173,Vision
+174,Ultron
+175,Vision
+176,Ultron
+177,Vision
+178,Ultron
+179,Vision
+180,Ultron
+181,Vision
+182,Ultron
+183,Iron Man
+184,Ultron
+185,Vision
+186,Ultron
+187,Vision
+188,Ultron
+189,Vision
+190,Ultron
+191,Vision
+192,War Machine
+193,Thor
+194,War Machine
+195,Thor
+196,War Machine
+197,Iron Man
+198,Maria Hill
+199,Iron Man
+200,Thor
+201,Iron Man
+202,Thor
+203,Maria Hill
+204,War Machine
+205,Maria Hill
+206,War Machine
+207,Thor
+208,Falcon
+209,Captain America
+210,Falcon
+211,Captain America
+212,Falcon
+213,Captain America
+214,Falcon
+215,War Machine
+216,partyguest
+217,Thor
+218,# this one is weird:  Stan Lee
+219,Thor
+220,# this one is weird:  Stan Lee
+221,Hulk
+222,Black Widow
+223,Hulk
+224,Black Widow
+225,Hulk
+226,Black Widow
+227,Hulk
+228,Black Widow
+229,Captain America
+230,Hulk
+231,Captain America
+232,Hulk
+233,Captain America
+234,Hulk
+235,Captain America
+236,Hulk
+237,Hawkeye
+238,Thor
+239,Hawkeye
+240,Thor
+241,Iron Man
+242,Hawkeye
+243,Thor
+244,War Machine
+245,Iron Man
+246,Hawkeye
+247,Iron Man
+248,Hawkeye
+249,Black Widow
+250,Maria Hill
+251,War Machine
+252,Hawkeye
+253,Iron Man
+254,Hawkeye
+255,Black Widow
+256,Iron Man
+257,Hulk
+258,Iron Man
+259,Thor
+260,Iron Man
+261,War Machine
+262,Iron Man
+263,War Machine
+264,Iron Man
+265,Hulk
+266,Iron Man
+267,War Machine
+268,Thor
+269,Iron Man
+270,Hulk
+271,Black Widow
+272,Iron Man
+273,Hawkeye
+274,Maria Hill
+275,Captain America
+276,Iron Man
+277,Thor
+278,Ultron
+279,Captain America
+280,Iron Man
+281,Ultron
+282,Iron Man
+283,Ultron
+284,Captain America
+285,Ultron
+286,Thor
+287,Ultron
+288,Hulk
+289,Ultron
+290,Black Widow
+291,Ultron
+292,Hulk
+293,Black Widow
+294,Hulk
+295,Black Widow
+296,Captain America
+297,ironlegion
+298,Iron Man
+299,ironlegion
+300,Iron Man
+301,ironlegion
+302,Hawkeye
+303,Ultron
+304,Hulk
+305,Captain America
+306,Black Widow
+307,War Machine
+308,Maria Hill
+309,War Machine
+310,Black Widow
+311,Captain America
+312,Hawkeye
+313,Maria Hill
+314,Iron Man
+315,Hulk
+316,Captain America
+317,Hulk
+318,Hawkeye
+319,Iron Man
+320,Thor
+321,Captain America
+322,Thor
+323,Black Widow
+324,Dr. Helen Cho
+325,Thor
+326,Iron Man
+327,Thor
+328,Iron Man
+329,Hulk
+330,Iron Man
+331,Hulk
+332,Iron Man
+333,Captain America
+334,Iron Man
+335,War Machine
+336,Iron Man
+337,War Machine
+338,Iron Man
+339,Captain America
+340,Iron Man
+341,Captain America
+342,Scarlet Witch
+343,Ultron
+344,Scarlet Witch
+345,Ultron
+346,Scarlet Witch
+347,Ultron
+348,Scarlet Witch
+349,Ultron
+350,Scarlet Witch
+351,Ultron
+352,Quicksilver
+353,Ultron
+354,Quicksilver
+355,Ultron
+356,Quicksilver
+357,Scarlet Witch
+358,Ultron
+359,Quicksilver
+360,Scarlet Witch
+361,Quicksilver
+362,Scarlet Witch
+363,Quicksilver
+364,Ultron
+365,Maria Hill
+366,Captain America
+367,Maria Hill
+368,Captain America
+369,Maria Hill
+370,Hawkeye
+371,Captain America
+372,Hawkeye
+373,Captain America
+374,Hawkeye
+375,Iron Man
+376,Captain America
+377,Iron Man
+378,Black Widow
+379,Captain America
+380,Black Widow
+381,Iron Man
+382,Captain America
+383,Hulk
+384,Iron Man
+385,Thor
+386,Iron Man
+387,Thor
+388,Hulk
+389,Captain America
+390,Hulk
+391,Iron Man
+392,Captain America
+393,Hulk
+394,Iron Man
+395,Captain America
+396,Ulysses Klaue
+397,Scarlet Witch
+398,Ulysses Klaue
+399,Ultron
+400,Ulysses Klaue
+401,Ultron
+402,Ulysses Klaue
+403,Ultron
+404,Ulysses Klaue
+405,Ultron
+406,Iron Man
+407,Ultron
+408,Thor
+409,Ultron
+410,Iron Man
+411,Quicksilver
+412,Iron Man
+413,Captain America
+414,Scarlet Witch
+415,Captain America
+416,Ultron
+417,Thor
+418,Ultron
+419,Iron Man
+420,Ultron
+421,Ulysses Klaue
+422,klauesmercenary
+423,Ulysses Klaue
+424,klauesmercenary
+425,Captain America
+426,Ultron
+427,Hulk
+428,Captain America
+429,Thor
+430,Ultron
+431,Hawkeye
+432,balletinstructor
+433,Black Widow
+434,madameb
+435,Black Widow
+436,madameb
+437,Peggy Carter
+438,Heimdall
+439,Thor
+440,Heimdall
+441,Peggy Carter
+442,Thor
+443,Heimdall
+444,madameb
+445,Black Widow
+446,madameb
+447,Quicksilver
+448,Scarlet Witch
+449,Quicksilver
+450,Scarlet Witch
+451,Ultron
+452,Iron Man
+453,Ultron
+454,Iron Man
+455,Hawkeye
+456,Iron Man
+457,Maria Hill
+458,Iron Man
+459,Maria Hill
+460,Iron Man
+461,Maria Hill
+462,Iron Man
+463,Maria Hill
+464,Iron Man
+465,Hawkeye
+466,Iron Man
+467,Hawkeye
+468,Thor
+469,Iron Man
+470,Hawkeye
+471,Hawkeye
+472,Laura Barton
+473,Iron Man
+474,Hawkeye
+475,Laura Barton
+476,Hawkeye
+477,bartonsdaughter
+478,Hawkeye
+479,Iron Man
+480,Hawkeye
+481,Lila Barton
+482,Black Widow
+483,Captain America
+484,Iron Man
+485,Hawkeye
+486,Laura Barton
+487,Black Widow
+488,Laura Barton
+489,Black Widow
+490,Captain America
+491,Thor
+492,Peggy Carter
+493,Hawkeye
+494,Laura Barton
+495,Hawkeye
+496,Laura Barton
+497,Hawkeye
+498,Laura Barton
+499,Hawkeye
+500,Laura Barton
+501,Hawkeye
+502,Laura Barton
+503,Hawkeye
+504,Laura Barton
+505,Hawkeye
+506,Laura Barton
+507,Hawkeye
+508,Laura Barton
+509,Hawkeye
+510,Laura Barton
+511,Ultron
+512,Dr. Helen Cho
+513,Ultron
+514,Dr. Helen Cho
+515,Ultron
+516,Dr. Helen Cho
+517,Ultron
+518,Hulk
+519,Black Widow
+520,Hulk
+521,Black Widow
+522,Hulk
+523,Black Widow
+524,Hulk
+525,Black Widow
+526,Hulk
+527,Black Widow
+528,Hulk
+529,Black Widow
+530,Hulk
+531,Black Widow
+532,Hulk
+533,Black Widow
+534,Hulk
+535,Black Widow
+536,Hulk
+537,Black Widow
+538,Hulk
+539,Iron Man
+540,Captain America
+541,Iron Man
+542,Captain America
+543,Iron Man
+544,Captain America
+545,Iron Man
+546,Captain America
+547,Iron Man
+548,Captain America
+549,Iron Man
+550,Captain America
+551,Iron Man
+552,Captain America
+553,Laura Barton
+554,Iron Man
+555,Nick Fury
+556,Iron Man
+557,Nick Fury
+558,Iron Man
+559,Nick Fury
+560,Iron Man
+561,Nick Fury
+562,Iron Man
+563,Nick Fury
+564,Iron Man
+565,Nick Fury
+566,Iron Man
+567,Nick Fury
+568,Selvig
+569,Thor
+570,Thor
+571,Selvig
+572,Nick Fury
+573,Captain America
+574,Nick Fury
+575,Iron Man
+576,Nick Fury
+577,Iron Man
+578,Nick Fury
+579,Captain America
+580,Hulk
+581,Hawkeye
+582,Nick Fury
+583,Iron Man
+584,Nick Fury
+585,Black Widow
+586,Nick Fury
+587,Iron Man
+588,Black Widow
+589,Nick Fury
+590,Black Widow
+591,Captain America
+592,Nick Fury
+593,Captain America
+594,Iron Man
+595,Black Widow
+596,Hulk
+597,Nick Fury
+598,Hulk
+599,Dr. Helen Cho
+600,Ultron
+601,Captain America
+602,Iron Man
+603,Captain America
+604,Iron Man
+605,Captain America
+606,Nick Fury
+607,Iron Man
+608,Nick Fury
+609,Hawkeye
+610,Laura Barton
+611,Hawkeye
+612,Selvig
+613,Thor
+614,Selvig
+615,Iron Man
+616,worldhubtech
+617,Iron Man
+618,Heimdall
+619,Selvig
+620,Ultron
+621,Dr. Helen Cho
+622,Scarlet Witch
+623,Dr. Helen Cho
+624,Ultron
+625,Dr. Helen Cho
+626,Scarlet Witch
+627,Ultron
+628,Scarlet Witch
+629,Ultron
+630,Scarlet Witch
+631,Ultron
+632,Quicksilver
+633,Ultron
+634,Scarlet Witch
+635,Ultron
+636,Quicksilver
+637,Ultron
+638,Dr. Helen Cho
+639,Ultron
+640,Captain America
+641,Dr. Helen Cho
+642,Captain America
+643,Dr. Helen Cho
+644,Captain America
+645,Dr. Helen Cho
+646,Captain America
+647,Hawkeye
+648,Black Widow
+649,Hawkeye
+650,Captain America
+651,Ultron
+652,Captain America
+653,Hawkeye
+654,Captain America
+655,Ultron
+656,Captain America
+657,Ultron
+658,Hawkeye
+659,Black Widow
+660,Hawkeye
+661,Black Widow
+662,Hawkeye
+663,Black Widow
+664,Captain America
+665,Black Widow
+666,Hawkeye
+667,Black Widow
+668,Hawkeye
+669,Black Widow
+670,Captain America
+671,Hawkeye
+672,Black Widow
+673,Hawkeye
+674,Black Widow
+675,Hawkeye
+676,Black Widow
+677,Ultron
+678,Scarlet Witch
+679,Hawkeye
+680,Hawkeye
+681,Captain America
+682,Hawkeye
+683,Captain America
+684,Quicksilver
+685,Captain America
+686,Scarlet Witch
+687,Captain America
+688,Scarlet Witch
+689,Captain America
+690,Scarlet Witch
+691,Captain America
+692,Scarlet Witch
+693,Hulk
+694,Iron Man
+695,Hawkeye
+696,Hulk
+697,Iron Man
+698,Hawkeye
+699,Hulk
+700,Iron Man
+701,Hulk
+702,Iron Man
+703,Hulk
+704,Iron Man
+705,Vision
+706,Iron Man
+707,Hulk
+708,Iron Man
+709,Hulk
+710,Iron Man
+711,Vision
+712,Hulk
+713,Iron Man
+714,Ultron
+715,Iron Man
+716,Hulk
+717,Captain America
+718,Iron Man
+719,Captain America
+720,Iron Man
+721,Captain America
+722,Hulk
+723,Scarlet Witch
+724,Hulk
+725,Captain America
+726,Iron Man
+727,Scarlet Witch
+728,Captain America
+729,Scarlet Witch
+730,Quicksilver
+731,Scarlet Witch
+732,Hawkeye
+733,Hulk
+734,Vision
+735,Captain America
+736,Thor
+737,Hulk
+738,Thor
+739,Captain America
+740,Thor
+741,Hulk
+742,Thor
+743,Vision
+744,Captain America
+745,Iron Man
+746,Captain America
+747,Vision
+748,Captain America
+749,Vision
+750,Scarlet Witch
+751,Vision
+752,Hawkeye
+753,Thor
+754,Captain America
+755,Vision
+756,Hawkeye
+757,Vision
+758,Iron Man
+759,Vision
+760,Hulk
+761,Hawkeye
+762,Hulk
+763,Vision
+764,Thor
+765,Captain America
+766,Friday
+767,Iron Man
+768,Captain America
+769,Iron Man
+770,Vision
+771,Captain America
+772,Quicksilver
+773,Captain America
+774,Hulk
+775,Black Widow
+776,Hulk
+777,Black Widow
+778,Hulk
+779,Black Widow
+780,Hulk
+781,Black Widow
+782,Hulk
+783,Black Widow
+784,Hulk
+785,Black Widow
+786,Friday
+787,Ultron
+788,Iron Man
+789,Ultron
+790,Iron Man
+791,Ultron
+792,Iron Man
+793,Ultron
+794,Friday
+795,Ultron
+796,Captain America
+797,Scarlet Witch
+798,Vision
+799,Ultron
+800,Vision
+801,Ultron
+802,Iron Man
+803,Friday
+804,Ultron
+805,Iron Man
+806,Friday
+807,Ultron
+808,Hulk
+809,Black Widow
+810,Hulk
+811,Black Widow
+812,Friday
+813,Iron Man
+814,Friday
+815,Iron Man
+816,Friday
+817,Iron Man
+818,Captain America
+819,Hawkeye
+820,Scarlet Witch
+821,Hawkeye
+822,Scarlet Witch
+823,Hawkeye
+824,Captain America
+825,Ultron
+826,Captain America
+827,Ultron
+828,Hawkeye
+829,Captain America
+830,Hawkeye
+831,Quicksilver
+832,Hawkeye
+833,Captain America
+834,Black Widow
+835,Friday
+836,Iron Man
+837,Friday
+838,Iron Man
+839,Friday
+840,Captain America
+841,Iron Man
+842,Captain America
+843,Iron Man
+844,Black Widow
+845,Captain America
+846,Black Widow
+847,Captain America
+848,Black Widow
+849,Nick Fury
+850,Captain America
+851,Nick Fury
+852,Maria Hill
+853,Quicksilver
+854,Captain America
+855,Quicksilver
+856,Captain America
+857,Maria Hill
+858,Nick Fury
+859,Maria Hill
+860,War Machine
+861,Iron Man
+862,War Machine
+863,Iron Man
+864,War Machine
+865,Hawkeye
+866,Maria Hill
+867,Ultron
+868,Thor
+869,Vision
+870,Thor
+871,Iron Man
+872,Friday
+873,Iron Man
+874,Thor
+875,Iron Man
+876,War Machine
+877,Iron Man
+878,Quicksilver
+879,Scarlet Witch
+880,Iron Man
+881,Black Widow
+882,Iron Man
+883,Thor
+884,Captain America
+885,Ultron
+886,Iron Man
+887,Ultron
+888,Thor
+889,Iron Man
+890,War Machine
+891,Captain America
+892,Hawkeye
+893,Scarlet Witch
+894,Scarlet Witch
+895,Quicksilver
+896,Scarlet Witch
+897,Quicksilver
+898,Scarlet Witch
+899,Quicksilver
+900,Scarlet Witch
+901,Friday
+902,Iron Man
+903,Hawkeye
+904,Black Widow
+905,Hawkeye
+906,Black Widow
+907,zrinka
+908,Iron Man
+909,Thor
+910,Captain America
+911,Iron Man
+912,Thor
+913,Ultron
+914,Quicksilver
+915,Ultron
+916,Hawkeye
+917,Ultron
+918,Scarlet Witch
+919,Iron Man
+920,Black Widow
+921,Vision
+922,Ultron
+923,Vision
+924,Ultron
+925,Vision
+926,Ultron
+927,Vision
+928,Ultron
+929,Vision
+930,Ultron
+931,Vision
+932,Laura Barton
+933,Black Widow
+934,Nick Fury
+935,Black Widow
+936,Nick Fury
+937,Black Widow
+938,Nick Fury
+939,Black Widow
+940,Nick Fury
+941,Captain America
+942,Iron Man
+943,Captain America
+944,Iron Man
+945,Captain America
+946,Iron Man
+947,Captain America
+948,Iron Man
+949,Captain America
+950,Thor
+951,Captain America
+952,Iron Man
+953,Captain America
+954,Thor
+955,Iron Man
+956,Thor
+957,Iron Man
+958,Captain America
+959,Thor
+960,Iron Man
+961,Captain America
+962,Iron Man
+963,Captain America
+964,Iron Man
+965,Captain America
+966,Iron Man
+967,Captain America
+968,Black Widow
+969,Captain America
+970,Black Widow
+971,Captain America
+972,Black Widow
+973,Captain America
+974,Thanos
