@@ -1,0 +1,619 @@
+0,searchteamleader
+1,shieldtech
+2,shieldlieutenant
+3,searchteamleader
+4,shieldlieutenant
+5,searchteamleader
+6,shieldlieutenant
+7,searchteamleader
+8,shieldtech
+9,searchteamleader
+10,shieldlieutenant
+11,shieldtech
+12,shieldlieutenant
+13,voicefromearpiece
+14,shieldlieutenant
+15,jan
+16,towerkeeper
+17,jan
+18,towerkeeper
+19,hydralieutenant
+20,Red Skull
+21,Red Skull
+22,towerkeeper
+23,Red Skull
+24,towerkeeper
+25,Red Skull
+26,towerkeeper
+27,Red Skull
+28,Red Skull
+29,towerkeeper
+30,Red Skull
+31,hydralieutenant
+32,towerkeeper
+33,Red Skull
+34,fdoctor
+35,Captain America
+36,fdoctor
+37,enlistmentguy
+38,Captain America
+39,fdoctor
+40,Captain America
+41,fdoctor
+42,Captain America
+43,fdoctor
+44,Captain America
+45,fdoctor
+46,Captain America
+47,fdoctor
+48,commercialannouncer
+49,loudjerk
+50,Captain America
+51,commercialannouncer
+52,loudjerk
+53,steveroger
+54,commercialannouncer
+55,loudjerk
+56,Captain America
+57,The Winter Soldier
+58,The Winter Soldier
+59,Captain America
+60,The Winter Soldier
+61,The Winter Soldier
+62,Captain America
+63,The Winter Soldier
+64,Captain America
+65,The Winter Soldier
+66,Captain America
+67,The Winter Soldier
+68,The Winter Soldier
+69,Captain America
+70,The Winter Soldier
+71,connie
+72,Captain America
+73,The Winter Soldier
+74,expoannouncer
+75,connie
+76,mandy
+77,randomwoman
+78,Howard Stark
+79,Howard Stark
+80,The Winter Soldier
+81,Howard Stark
+82,The Winter Soldier
+83,woman
+84,The Winter Soldier
+85,Captain America
+86,The Winter Soldier
+87,Captain America
+88,The Winter Soldier
+89,Captain America
+90,The Winter Soldier
+91,Captain America
+92,The Winter Soldier
+93,Captain America
+94,The Winter Soldier
+95,Captain America
+96,The Winter Soldier
+97,Captain America
+98,The Winter Soldier
+99,Captain America
+100,The Winter Soldier
+101,connie
+102,The Winter Soldier
+103,Captain America
+104,The Winter Soldier
+105,Captain America
+106,Captain America
+107,The Winter Soldier
+108,youngdoctor
+109,Captain America
+110,youngdoctor
+111,Dr. Abraham Erskine
+112,Captain America
+113,Dr. Abraham Erskine
+114,Captain America
+115,Captain America
+116,Dr. Abraham Erskine
+117,Captain America
+118,Dr. Abraham Erskine
+119,Captain America
+120,Dr. Abraham Erskine
+121,Captain America
+122,Dr. Abraham Erskine
+123,Captain America
+124,Dr. Abraham Erskine
+125,Dr. Abraham Erskine
+126,Captain America
+127,Dr. Abraham Erskine
+128,Captain America
+129,Dr. Abraham Erskine
+130,Red Skull
+131,Dr. Arnim Zola
+132,Red Skull
+133,Dr. Arnim Zola
+134,Dr. Arnim Zola
+135,Red Skull
+136,Dr. Arnim Zola
+137,Red Skull
+138,Dr. Arnim Zola
+139,Red Skull
+140,officer
+141,Peggy Carter
+142,gilmorehodge
+143,Peggy Carter
+144,gilmorehodge
+145,Peggy Carter
+146,Peggy Carter
+147,gilmorehodge
+148,Peggy Carter
+149,gilmorehodge
+150,Sergeant Duffy
+151,Sergeant Duffy
+152,soldiers
+153,Sergeant Duffy
+154,Captain America
+155,Peggy Carter
+156,Dr. Abraham Erskine
+157,Peggy Carter
+158,Peggy Carter
+159,Dr. Abraham Erskine
+160,Dr. Abraham Erskine
+161,Dr. Abraham Erskine
+162,Dr. Abraham Erskine
+163,Captain America
+164,officer
+165,Captain America
+166,Dr. Abraham Erskine
+167,Captain America
+168,Dr. Abraham Erskine
+169,Captain America
+170,Dr. Abraham Erskine
+171,Captain America
+172,Dr. Abraham Erskine
+173,Captain America
+174,Dr. Abraham Erskine
+175,Dr. Abraham Erskine
+176,Captain America
+177,Dr. Abraham Erskine
+178,Captain America
+179,Dr. Abraham Erskine
+180,Captain America
+181,Dr. Abraham Erskine
+182,Captain America
+183,Dr. Abraham Erskine
+184,Red Skull
+185,Dr. Arnim Zola
+186,Red Skull
+187,Dr. Arnim Zola
+188,Red Skull
+189,Dr. Arnim Zola
+190,Red Skull
+191,Dr. Arnim Zola
+192,Red Skull
+193,Dr. Arnim Zola
+194,Captain America
+195,Peggy Carter
+196,Captain America
+197,Peggy Carter
+198,Captain America
+199,Peggy Carter
+200,Captain America
+201,Peggy Carter
+202,Captain America
+203,Peggy Carter
+204,Captain America
+205,Peggy Carter
+206,Captain America
+207,Peggy Carter
+208,antiquestoreowner
+209,Peggy Carter
+210,Dr. Abraham Erskine
+211,senatorbrandt
+212,senatorbrandt
+213,Heinz Kruger
+214,senatorbrandt
+215,Dr. Abraham Erskine
+216,Captain America
+217,Dr. Abraham Erskine
+218,Howard Stark
+219,Dr. Abraham Erskine
+220,Howard Stark
+221,Dr. Abraham Erskine
+222,Peggy Carter
+223,Dr. Abraham Erskine
+224,Captain America
+225,Dr. Abraham Erskine
+226,Captain America
+227,Dr. Abraham Erskine
+228,Howard Stark
+229,ssrdoctor
+230,Howard Stark
+231,Dr. Abraham Erskine
+232,Peggy Carter
+233,Dr. Abraham Erskine
+234,Peggy Carter
+235,Dr. Abraham Erskine
+236,Captain America
+237,Howard Stark
+238,Dr. Abraham Erskine
+239,Dr. Abraham Erskine
+240,Captain America
+241,Dr. Abraham Erskine
+242,Howard Stark
+243,Peggy Carter
+244,Captain America
+245,Peggy Carter
+246,senatorbrandt
+247,Dr. Abraham Erskine
+248,Dr. Abraham Erskine
+249,taxidriver
+250,Captain America
+251,mother
+252,youngboy
+253,mother
+254,Heinz Kruger
+255,youngboy
+256,mother
+257,Captain America
+258,youngboy
+259,Captain America
+260,Heinz Kruger
+261,hutter
+262,schneider
+263,Red Skull
+264,roeder
+265,schneider
+266,Red Skull
+267,roeder
+268,Red Skull
+269,roeder
+270,Red Skull
+271,schneider
+272,Red Skull
+273,schneider
+274,hutter
+275,Red Skull
+276,hutter
+277,roeder
+278,Red Skull
+279,hydratechnicians
+280,Dr. Arnim Zola
+281,Captain America
+282,Peggy Carter
+283,Captain America
+284,Peggy Carter
+285,senatorbrandt
+286,Howard Stark
+287,senatorbrandt
+288,senatorbrandt
+289,Peggy Carter
+290,senatorbrandt
+291,Peggy Carter
+292,Captain America
+293,Captain America
+294,senatorbrandt
+295,Captain America
+296,senatorbrandt
+297,Captain America
+298,brandtsaide
+299,Captain America
+300,brandtsaide
+301,usosinger
+302,Captain America
+303,usosinger
+304,Captain America
+305,usosinger
+306,director
+307,usosinger
+308,Captain America
+309,usosinger
+310,Captain America
+311,kidsinusoaudience
+312,Captain America
+313,usosinger
+314,Captain America
+315,armyheckler
+316,Captain America
+317,armyheckler
+318,armyheckler
+319,Captain America
+320,armyheckler
+321,armyheckler
+322,brandtsaide
+323,Peggy Carter
+324,Captain America
+325,Peggy Carter
+326,Captain America
+327,Peggy Carter
+328,Captain America
+329,Peggy Carter
+330,Captain America
+331,Peggy Carter
+332,Captain America
+333,Peggy Carter
+334,Captain America
+335,Peggy Carter
+336,Captain America
+337,Peggy Carter
+338,Captain America
+339,Captain America
+340,Captain America
+341,Captain America
+342,Captain America
+343,Captain America
+344,Captain America
+345,Captain America
+346,Peggy Carter
+347,Captain America
+348,Peggy Carter
+349,Captain America
+350,Peggy Carter
+351,Captain America
+352,Peggy Carter
+353,Captain America
+354,Peggy Carter
+355,brandtsaide
+356,usogirl
+357,brandtsaide
+358,Peggy Carter
+359,Howard Stark
+360,Captain America
+361,Peggy Carter
+362,Captain America
+363,Peggy Carter
+364,Captain America
+365,Howard Stark
+366,Peggy Carter
+367,Captain America
+368,Peggy Carter
+369,Captain America
+370,Howard Stark
+371,Peggy Carter
+372,Captain America
+373,Peggy Carter
+374,Captain America
+375,Dr. Arnim Zola
+376,Red Skull
+377,Dr. Arnim Zola
+378,Red Skull
+379,Dr. Arnim Zola
+380,dumdumdugan
+381,Captain America
+382,hydraguards
+383,gabejones
+384,Captain America
+385,dumdumdugan
+386,jimmorita
+387,Captain America
+388,Captain America
+389,gabejones
+390,Captain America
+391,jimmorita
+392,Red Skull
+393,dumdumdugan
+394,gabejones
+395,dumdumdugan
+396,dumdumdugan
+397,gabejones
+398,dumdumdugan
+399,Dr. Arnim Zola
+400,Red Skull
+401,jimmorita
+402,The Winter Soldier
+403,Captain America
+404,The Winter Soldier
+405,Captain America
+406,The Winter Soldier
+407,Captain America
+408,The Winter Soldier
+409,Captain America
+410,The Winter Soldier
+411,Captain America
+412,The Winter Soldier
+413,Captain America
+414,The Winter Soldier
+415,Captain America
+416,The Winter Soldier
+417,Captain America
+418,Red Skull
+419,Captain America
+420,Red Skull
+421,The Winter Soldier
+422,Red Skull
+423,Captain America
+424,Dr. Arnim Zola
+425,Red Skull
+426,Captain America
+427,The Winter Soldier
+428,Captain America
+429,The Winter Soldier
+430,Peggy Carter
+431,corporal
+432,Peggy Carter
+433,Peggy Carter
+434,man
+435,Captain America
+436,man
+437,Captain America
+438,Captain America
+439,Peggy Carter
+440,Captain America
+441,The Winter Soldier
+442,senatorbrandt
+443,general
+444,Captain America
+445,Peggy Carter
+446,Captain America
+447,Peggy Carter
+448,Captain America
+449,Captain America
+450,dumdumdugan
+451,gabejones
+452,Captain America
+453,jimmorita
+454,gabejones
+455,dumdumdugan
+456,Captain America
+457,dumdumdugan
+458,jimmorita
+459,Captain America
+460,barkeeper
+461,The Winter Soldier
+462,Captain America
+463,The Winter Soldier
+464,Captain America
+465,Peggy Carter
+466,Captain America
+467,The Winter Soldier
+468,Peggy Carter
+469,Captain America
+470,Peggy Carter
+471,The Winter Soldier
+472,Peggy Carter
+473,The Winter Soldier
+474,Captain America
+475,The Winter Soldier
+476,Captain America
+477,Howard Stark
+478,Captain America
+479,pvtlorraine
+480,Captain America
+481,pvtlorraine
+482,Captain America
+483,pvtlorraine
+484,Captain America
+485,pvtlorraine
+486,Captain America
+487,pvtlorraine
+488,Peggy Carter
+489,Captain America
+490,Peggy Carter
+491,Captain America
+492,Peggy Carter
+493,Captain America
+494,Peggy Carter
+495,Howard Stark
+496,Captain America
+497,Howard Stark
+498,Captain America
+499,Howard Stark
+500,Captain America
+501,Howard Stark
+502,Captain America
+503,Howard Stark
+504,Captain America
+505,Howard Stark
+506,Peggy Carter
+507,Captain America
+508,Peggy Carter
+509,Captain America
+510,Howard Stark
+511,Red Skull
+512,Dr. Arnim Zola
+513,Red Skull
+514,guard
+515,facilitymanager
+516,Red Skull
+517,The Winter Soldier
+518,Captain America
+519,The Winter Soldier
+520,Captain America
+521,gabejones
+522,Captain America
+523,dumdumdugan
+524,jacquesdernier
+525,Dr. Arnim Zola
+526,The Winter Soldier
+527,Captain America
+528,Dr. Arnim Zola
+529,Captain America
+530,Dr. Arnim Zola
+531,Dr. Arnim Zola
+532,Dr. Arnim Zola
+533,Dr. Arnim Zola
+534,Dr. Arnim Zola
+535,Dr. Arnim Zola
+536,Dr. Arnim Zola
+537,Dr. Arnim Zola
+538,Dr. Arnim Zola
+539,Dr. Arnim Zola
+540,Dr. Arnim Zola
+541,Dr. Arnim Zola
+542,Red Skull
+543,manontheradio
+544,Captain America
+545,Peggy Carter
+546,Captain America
+547,Peggy Carter
+548,Captain America
+549,Peggy Carter
+550,Captain America
+551,Peggy Carter
+552,Howard Stark
+553,gabejones
+554,jaquesdernier
+555,jimmorita
+556,Captain America
+557,Red Skull
+558,Captain America
+559,Red Skull
+560,Captain America
+561,Red Skull
+562,Captain America
+563,Captain America
+564,jimmorita
+565,hydrasoldier
+566,Captain America
+567,Peggy Carter
+568,Captain America
+569,Peggy Carter
+570,Red Skull
+571,Captain America
+572,johanschmidt
+573,Captain America
+574,Captain America
+575,jimmorita
+576,Peggy Carter
+577,Captain America
+578,Peggy Carter
+579,Captain America
+580,Peggy Carter
+581,Captain America
+582,Peggy Carter
+583,Captain America
+584,Peggy Carter
+585,Captain America
+586,Peggy Carter
+587,Captain America
+588,Peggy Carter
+589,Captain America
+590,Peggy Carter
+591,Captain America
+592,Peggy Carter
+593,Captain America
+594,Peggy Carter
+595,starksengineer
+596,Howard Stark
+597,starksengineer
+598,Howard Stark
+599,dodgersannouncer
+600,shieldagent
+601,Captain America
+602,shieldagent
+603,dodgersannouncer
+604,Captain America
+605,shieldagent
+606,Captain America
+607,shieldagent
+608,Captain America
+609,shieldagent
+610,Nick Fury
+611,Captain America
+612,Nick Fury
+613,Captain America
+614,Nick Fury
+615,Captain America
+616,Nick Fury
+617,Captain America
+618,Nick Fury

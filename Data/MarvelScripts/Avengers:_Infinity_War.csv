@@ -1,0 +1,991 @@
+0,asgardianpa
+1,Ebony Maw
+2,Thanos
+3,Thor
+4,Thanos
+5,Loki
+6,Loki
+7,Thor
+8,Thor
+9,Loki
+10,Thanos
+11,Loki
+12,Ebony Maw
+13,Heimdall
+14,Thanos
+15,Thor
+16,Ebony Maw
+17,Ebony Maw
+18,Thanos
+19,Proxima Midnight
+20,Loki
+21,Thanos
+22,Loki
+23,Thanos
+24,Loki
+25,Thanos
+26,Thor
+27,Doctor Strange
+28,Wong
+29,Doctor Strange
+30,Wong
+31,Doctor Strange
+32,Wong
+33,Doctor Strange
+34,Wong
+35,Doctor Strange
+36,Wong
+37,Hulk
+38,Doctor Strange
+39,Iron Man
+40,Pepper Potts
+41,Iron Man
+42,Pepper Potts
+43,Iron Man
+44,Pepper Potts
+45,Iron Man
+46,Pepper Potts
+47,Iron Man
+48,Pepper Potts
+49,Iron Man
+50,Pepper Potts
+51,Iron Man
+52,Pepper Potts
+53,Iron Man
+54,Pepper Potts
+55,Iron Man
+56,Pepper Potts
+57,Iron Man
+58,Pepper Potts
+59,Iron Man
+60,Pepper Potts
+61,Iron Man
+62,Pepper Potts
+63,Iron Man
+64,Pepper Potts
+65,Iron Man
+66,Pepper Potts
+67,Iron Man
+68,Pepper Potts
+69,Iron Man
+70,Doctor Strange
+71,Iron Man
+72,Doctor Strange
+73,Iron Man
+74,Hulk
+75,Iron Man
+76,Hulk
+77,Pepper Potts
+78,Iron Man
+79,Wong
+80,Doctor Strange
+81,Iron Man
+82,Hulk
+83,Iron Man
+84,Hulk
+85,Doctor Strange
+86,Iron Man
+87,Doctor Strange
+88,Iron Man
+89,Iron Man
+90,Doctor Strange
+91,Wong
+92,Iron Man
+93,Doctor Strange
+94,Iron Man
+95,Doctor Strange
+96,Wong
+97,Hulk
+98,Iron Man
+99,Doctor Strange
+100,Iron Man
+101,Doctor Strange
+102,Iron Man
+103,Doctor Strange
+104,Hulk
+105,Iron Man
+106,Hulk
+107,Iron Man
+108,Hulk
+109,Iron Man
+110,Doctor Strange
+111,Iron Man
+112,Doctor Strange
+113,Iron Man
+114,Hulk
+115,Iron Man
+116,Hulk
+117,Iron Man
+118,Hulk
+119,Iron Man
+120,Hulk
+121,Iron Man
+122,Doctor Strange
+123,Iron Man
+124,Iron Man
+125,Hulk
+126,Iron Man
+127,Friday
+128,Iron Man
+129,Doctor Strange
+130,Spider-Man
+131,nedleeds
+132,Iron Man
+133,Friday
+134,Ebony Maw
+135,Iron Man
+136,Ebony Maw
+137,Doctor Strange
+138,Iron Man
+139,Ebony Maw
+140,Cull Obsidian
+141,Ebony Maw
+142,Cull Obsidian
+143,Iron Man
+144,Hulk
+145,Iron Man
+146,Iron Man
+147,Hulk
+148,Iron Man
+149,Hulk
+150,Iron Man
+151,Hulk
+152,Iron Man
+153,Iron Man
+154,Hulk
+155,Iron Man
+156,Wong
+157,Hulk
+158,Hulk
+159,Iron Man
+160,Doctor Strange
+161,Iron Man
+162,Doctor Strange
+163,Iron Man
+164,Hulk
+165,Iron Man
+166,Hulk
+167,Iron Man
+168,Hulk
+169,Hulk
+170,Hulk
+171,Spider-Man
+172,Iron Man
+173,Spider-Man
+174,Spider-Man
+175,Iron Man
+176,Ebony Maw
+177,Doctor Strange
+178,Ebony Maw
+179,Doctor Strange
+180,Ebony Maw
+181,Iron Man
+182,Spider-Man
+183,Spider-Man
+184,Spider-Man
+185,Iron Man
+186,Iron Man
+187,Spider-Man
+188,Iron Man
+189,Spider-Man
+190,Spider-Man
+191,Iron Man
+192,Friday
+193,Spider-Man
+194,Friday
+195,Pepper Potts
+196,Iron Man
+197,Pepper Potts
+198,Iron Man
+199,Pepper Potts
+200,Iron Man
+201,Pepper Potts
+202,Iron Man
+203,Pepper Potts
+204,Iron Man
+205,Pepper Potts
+206,Friday
+207,Spider-Man
+208,Hulk
+209,Wong
+210,Hulk
+211,Star-Lord
+212,Rocket
+213,Gamora
+214,Rocket
+215,Star-Lord
+216,Gamora
+217,Star-Lord
+218,Drax
+219,Rocket
+220,Star-Lord
+221,Mantis
+222,Star-Lord
+223,Groot
+224,Star-Lord
+225,Rocket
+226,Gamora
+227,Drax
+228,Star-Lord
+229,Rocket
+230,Mantis
+231,Rocket
+232,Rocket
+233,Star-Lord
+234,Drax
+235,Star-Lord
+236,Rocket
+237,Star-Lord
+238,Drax
+239,Star-Lord
+240,Mantis
+241,Drax
+242,Star-Lord
+243,Rocket
+244,Gamora
+245,Star-Lord
+246,Mantis
+247,Thor
+248,Gamora
+249,Drax
+250,Gamora
+251,Thor
+252,Drax
+253,Thor
+254,Star-Lord
+255,Thor
+256,Star-Lord
+257,Thor
+258,Star-Lord
+259,Thor
+260,Star-Lord
+261,Rocket
+262,Star-Lord
+263,Drax
+264,Star-Lord
+265,Mantis
+266,Star-Lord
+267,Thor
+268,Star-Lord
+269,Thor
+270,Star-Lord
+271,Thor
+272,Gamora
+273,Thor
+274,Mantis
+275,Star-Lord
+276,Thor
+277,Gamora
+278,Thor
+279,Star-Lord
+280,Thor
+281,Gamora
+282,Thor
+283,Star-Lord
+284,Thor
+285,Mantis
+286,Thor
+287,Gamora
+288,Thor
+289,Drax
+290,Thor
+291,Rocket
+292,Thor
+293,Rocket
+294,Thor
+295,Rocket
+296,Thor
+297,Rocket
+298,Thor
+299,Star-Lord
+300,Thor
+301,Star-Lord
+302,Rocket
+303,Star-Lord
+304,Thor
+305,Star-Lord
+306,Thor
+307,Rocket
+308,Thor
+309,Gamora
+310,Thor
+311,Rocket
+312,Thor
+313,Star-Lord
+314,Rocket
+315,Thor
+316,Vision
+317,Scarlet Witch
+318,Vision
+319,Scarlet Witch
+320,Vision
+321,Vision
+322,Scarlet Witch
+323,Scarlet Witch
+324,Vision
+325,Scarlet Witch
+326,Vision
+327,Scarlet Witch
+328,Vision
+329,Scarlet Witch
+330,Vision
+331,Scarlet Witch
+332,Vision
+333,Vision
+334,Vision
+335,Scarlet Witch
+336,Vision
+337,Scarlet Witch
+338,Vision
+339,Scarlet Witch
+340,Vision
+341,Scarlet Witch
+342,Vision
+343,Scarlet Witch
+344,Corvus Glaive
+345,Scarlet Witch
+346,Scarlet Witch
+347,Vision
+348,Scarlet Witch
+349,Vision
+350,Scarlet Witch
+351,Proxima Midnight
+352,Corvus Glaive
+353,Black Widow
+354,Proxima Midnight
+355,Falcon
+356,Vision
+357,Captain America
+358,Black Widow
+359,Scarlet Witch
+360,Falcon
+361,Captain America
+362,gamorasmother
+363,childofthanos
+364,Ebony Maw
+365,Gamora
+366,Ebony Maw
+367,Gamora
+368,Ebony Maw
+369,Thanos
+370,Gamora
+371,Thanos
+372,Gamora
+373,Thanos
+374,Ebony Maw
+375,Thanos
+376,Star-Lord
+377,Gamora
+378,Star-Lord
+379,Gamora
+380,Star-Lord
+381,Gamora
+382,Star-Lord
+383,Gamora
+384,Star-Lord
+385,Gamora
+386,Star-Lord
+387,Gamora
+388,Star-Lord
+389,Gamora
+390,Star-Lord
+391,Gamora
+392,Star-Lord
+393,Star-Lord
+394,Drax
+395,Star-Lord
+396,Drax
+397,Star-Lord
+398,Drax
+399,Star-Lord
+400,Drax
+401,Mantis
+402,Drax
+403,Star-Lord
+404,Drax
+405,Star-Lord
+406,collector
+407,Thanos
+408,Thanos
+409,collector
+410,Thanos
+411,collector
+412,Thanos
+413,collector
+414,Thanos
+415,Drax
+416,Star-Lord
+417,Drax
+418,Star-Lord
+419,Drax
+420,Mantis
+421,Star-Lord
+422,Thanos
+423,Star-Lord
+424,collector
+425,Thanos
+426,Thanos
+427,Gamora
+428,Thanos
+429,Drax
+430,Star-Lord
+431,Gamora
+432,Star-Lord
+433,Gamora
+434,Star-Lord
+435,Thanos
+436,Star-Lord
+437,Gamora
+438,Star-Lord
+439,Gamora
+440,Gamora
+441,Thanos
+442,Star-Lord
+443,Gamora
+444,Star-Lord
+445,Thanos
+446,Thaddeus Ross
+447,War Machine
+448,Thaddeus Ross
+449,War Machine
+450,Thaddeus Ross
+451,War Machine
+452,Thaddeus Ross
+453,War Machine
+454,Thaddeus Ross
+455,War Machine
+456,Captain America
+457,Thaddeus Ross
+458,Black Widow
+459,Thaddeus Ross
+460,Captain America
+461,Thaddeus Ross
+462,War Machine
+463,Captain America
+464,War Machine
+465,Falcon
+466,Hulk
+467,Black Widow
+468,Hulk
+469,Falcon
+470,War Machine
+471,Scarlet Witch
+472,Hulk
+473,Black Widow
+474,Hulk
+475,Captain America
+476,Hulk
+477,Black Widow
+478,Vision
+479,Scarlet Witch
+480,Vision
+481,Scarlet Witch
+482,Vision
+483,Captain America
+484,Vision
+485,Hulk
+486,Scarlet Witch
+487,Hulk
+488,Black Widow
+489,Hulk
+490,War Machine
+491,Captain America
+492,Okoye
+493,Black Panther
+494,Okoye
+495,Black Panther
+496,Okoye
+497,Black Panther
+498,The Winter Soldier
+499,Black Panther
+500,Ebony Maw
+501,Iron Man
+502,Spider-Man
+503,Iron Man
+504,Spider-Man
+505,Iron Man
+506,Spider-Man
+507,Iron Man
+508,Spider-Man
+509,Iron Man
+510,Spider-Man
+511,Iron Man
+512,Spider-Man
+513,Iron Man
+514,Spider-Man
+515,Iron Man
+516,Spider-Man
+517,Iron Man
+518,Spider-Man
+519,Ebony Maw
+520,Ebony Maw
+521,Iron Man
+522,Ebony Maw
+523,Iron Man
+524,Spider-Man
+525,Spider-Man
+526,Doctor Strange
+527,Iron Man
+528,Doctor Strange
+529,Iron Man
+530,Doctor Strange
+531,Iron Man
+532,Doctor Strange
+533,Iron Man
+534,Doctor Strange
+535,Iron Man
+536,Spider-Man
+537,Iron Man
+538,Doctor Strange
+539,Spider-Man
+540,Doctor Strange
+541,Spider-Man
+542,Iron Man
+543,Doctor Strange
+544,Iron Man
+545,Doctor Strange
+546,Iron Man
+547,Doctor Strange
+548,Iron Man
+549,Doctor Strange
+550,Iron Man
+551,Thanos
+552,Gamora
+553,Thanos
+554,Gamora
+555,Thanos
+556,Gamora
+557,Thanos
+558,Gamora
+559,Thanos
+560,Gamora
+561,Thanos
+562,Gamora
+563,Thanos
+564,Gamora
+565,Thanos
+566,Gamora
+567,Thanos
+568,Gamora
+569,Thanos
+570,Gamora
+571,Gamora
+572,Thanos
+573,Gamora
+574,Thanos
+575,Gamora
+576,memorynebula
+577,memorygamora
+578,memorynebula
+579,memorygamora
+580,Thanos
+581,Gamora
+582,Thanos
+583,Groot
+584,Rocket
+585,Groot
+586,Thor
+587,Rocket
+588,Thor
+589,Groot
+590,Thor
+591,Rocket
+592,Thor
+593,Rocket
+594,Thor
+595,Rocket
+596,Thor
+597,Rocket
+598,Thor
+599,Rocket
+600,Thor
+601,Rocket
+602,Thor
+603,Rocket
+604,Thor
+605,Rocket
+606,Thor
+607,Rocket
+608,Thor
+609,Rocket
+610,Thor
+611,Rocket
+612,Thor
+613,Rocket
+614,Thor
+615,Rocket
+616,Thor
+617,Rocket
+618,Thor
+619,Rocket
+620,Thor
+621,Rocket
+622,Thor
+623,Rocket
+624,Groot
+625,Thor
+626,Thor
+627,Eitri
+628,Thor
+629,Eitri
+630,Thor
+631,Eitri
+632,Thor
+633,Nebula
+634,Spider-Man
+635,Doctor Strange
+636,Iron Man
+637,Spider-Man
+638,Iron Man
+639,Spider-Man
+640,Spider-Man
+641,Iron Man
+642,Spider-Man
+643,Iron Man
+644,Spider-Man
+645,Drax
+646,Spider-Man
+647,Star-Lord
+648,Drax
+649,Star-Lord
+650,Iron Man
+651,Drax
+652,Star-Lord
+653,Iron Man
+654,Drax
+655,Mantis
+656,Doctor Strange
+657,Star-Lord
+658,Doctor Strange
+659,Star-Lord
+660,Iron Man
+661,Star-Lord
+662,Iron Man
+663,Spider-Man
+664,Star-Lord
+665,Spider-Man
+666,Star-Lord
+667,Mantis
+668,Iron Man
+669,Star-Lord
+670,Doctor Strange
+671,Rocket
+672,Eitri
+673,Thor
+674,Eitri
+675,Rocket
+676,Thor
+677,Eitri
+678,Thor
+679,Star-Lord
+680,Iron Man
+681,Iron Man
+682,Drax
+683,Iron Man
+684,Star-Lord
+685,Spider-Man
+686,Mantis
+687,Drax
+688,Iron Man
+689,Star-Lord
+690,Iron Man
+691,Star-Lord
+692,Drax
+693,Iron Man
+694,Star-Lord
+695,Spider-Man
+696,Star-Lord
+697,Spider-Man
+698,Iron Man
+699,Spider-Man
+700,Iron Man
+701,Star-Lord
+702,Iron Man
+703,Mantis
+704,Iron Man
+705,Iron Man
+706,Spider-Man
+707,Doctor Strange
+708,Star-Lord
+709,Doctor Strange
+710,Iron Man
+711,Doctor Strange
+712,Thanos
+713,stonekeeper
+714,Thanos
+715,stonekeeper
+716,Thanos
+717,stonekeeper
+718,Thanos
+719,stonekeeper
+720,Thanos
+721,Red Skull
+722,Red Skull
+723,Thanos
+724,Red Skull
+725,Thanos
+726,Red Skull
+727,Thanos
+728,Red Skull
+729,Gamora
+730,Thanos
+731,Gamora
+732,Red Skull
+733,Gamora
+734,Thanos
+735,Gamora
+736,Captain America
+737,Falcon
+738,Okoye
+739,Black Panther
+740,Okoye
+741,Hulk
+742,War Machine
+743,Captain America
+744,War Machine
+745,Black Panther
+746,Hulk
+747,Black Widow
+748,Black Panther
+749,The Winter Soldier
+750,Captain America
+751,The Winter Soldier
+752,Shuri
+753,Hulk
+754,Shuri
+755,Hulk
+756,Shuri
+757,Scarlet Witch
+758,Shuri
+759,Captain America
+760,Shuri
+761,Okoye
+762,Falcon
+763,The Winter Soldier
+764,War Machine
+765,Vision
+766,Black Widow
+767,Black Panther
+768,Captain America
+769,Scarlet Witch
+770,Black Panther
+771,Rocket
+772,Thor
+773,Rocket
+774,Rocket
+775,Thor
+776,Eitri
+777,Thor
+778,Eitri
+779,Rocket
+780,Eitri
+781,Thor
+782,Eitri
+783,Thor
+784,Eitri
+785,Thor
+786,Eitri
+787,Thor
+788,Black Widow
+789,Hulk
+790,War Machine
+791,jabariwarriors
+792,Black Panther
+793,M'Baku
+794,Black Widow
+795,Proxima Midnight
+796,Captain America
+797,Black Panther
+798,Proxima Midnight
+799,The Winter Soldier
+800,Captain America
+801,The Winter Soldier
+802,Black Widow
+803,Okoye
+804,Falcon
+805,War Machine
+806,Hulk
+807,Captain America
+808,Okoye
+809,Black Panther
+810,domecontrol
+811,Black Panther
+812,M'Baku
+813,Okoye
+814,Black Panther
+815,Black Panther
+816,Shuri
+817,Black Panther
+818,Thor
+819,Eitri
+820,Thor
+821,Eitri
+822,Eitri
+823,Rocket
+824,Rocket
+825,Eitri
+826,Hulk
+827,Hulk
+828,Thor
+829,Doctor Strange
+830,Thanos
+831,Doctor Strange
+832,Thanos
+833,Doctor Strange
+834,Thanos
+835,Doctor Strange
+836,Thanos
+837,Doctor Strange
+838,Thanos
+839,Doctor Strange
+840,Thanos
+841,Doctor Strange
+842,Thanos
+843,Doctor Strange
+844,Thanos
+845,Iron Man
+846,Star-Lord
+847,Star-Lord
+848,Doctor Strange
+849,Spider-Man
+850,Thanos
+851,Thanos
+852,Nebula
+853,Thanos
+854,Nebula
+855,Iron Man
+856,Mantis
+857,Iron Man
+858,Star-Lord
+859,Thanos
+860,Star-Lord
+861,Mantis
+862,Star-Lord
+863,Mantis
+864,Drax
+865,Nebula
+866,Star-Lord
+867,Nebula
+868,Iron Man
+869,Iron Man
+870,Star-Lord
+871,Thanos
+872,Star-Lord
+873,tonystarkanddrax
+874,Iron Man
+875,Spider-Man
+876,Spider-Man
+877,Rocket
+878,The Winter Soldier
+879,Rocket
+880,Captain America
+881,Thor
+882,Thor
+883,Groot
+884,Captain America
+885,Black Panther
+886,War Machine
+887,Falcon
+888,Okoye
+889,Proxima Midnight
+890,Falcon
+891,Captain America
+892,Hulk
+893,Scarlet Witch
+894,Proxima Midnight
+895,Black Widow
+896,Proxima Midnight
+897,Hulk
+898,Hulk
+899,Hulk
+900,Hulk
+901,Hulk
+902,Corvus Glaive
+903,Captain America
+904,Black Widow
+905,Captain America
+906,Vision
+907,Spider-Man
+908,Thanos
+909,Doctor Strange
+910,Thanos
+911,Iron Man
+912,Thanos
+913,Iron Man
+914,Thanos
+915,Iron Man
+916,Thanos
+917,Thanos
+918,Thanos
+919,Doctor Strange
+920,Thanos
+921,Iron Man
+922,Thanos
+923,Star-Lord
+924,Star-Lord
+925,Star-Lord
+926,Iron Man
+927,Doctor Strange
+928,M'Baku
+929,jabari
+930,Scarlet Witch
+931,Vision
+932,Captain America
+933,Black Widow
+934,Hulk
+935,Captain America
+936,Vision
+937,Scarlet Witch
+938,Vision
+939,Scarlet Witch
+940,Vision
+941,Scarlet Witch
+942,Vision
+943,Scarlet Witch
+944,Vision
+945,Vision
+946,Thanos
+947,Scarlet Witch
+948,Thanos
+949,Scarlet Witch
+950,Thor
+951,Thanos
+952,Thor
+953,Thanos
+954,Gamora
+955,Thanos
+956,Gamora
+957,Thanos
+958,Thor
+959,Captain America
+960,The Winter Soldier
+961,Black Panther
+962,Okoye
+963,Groot
+964,Rocket
+965,War Machine
+966,Mantis
+967,Drax
+968,Iron Man
+969,Star-Lord
+970,Doctor Strange
+971,Spider-Man
+972,Iron Man
+973,Spider-Man
+974,Nebula
+975,War Machine
+976,Captain America
+977,Nick Fury
+978,Maria Hill
+979,Nick Fury
+980,Maria Hill
+981,Nick Fury
+982,Maria Hill
+983,Nick Fury
+984,Maria Hill
+985,Nick Fury
+986,Maria Hill
+987,Nick Fury
+988,Maria Hill
+989,Nick Fury
+990,Nick Fury

@@ -1,0 +1,830 @@
+0,The Other
+1,intercomvoice
+2,intercomvoice
+3,intercomvoice
+4,Nick Fury
+5,Coulson
+6,Coulson
+7,Coulson
+8,Nick Fury
+9,Coulson
+10,Maria Hill
+11,Coulson
+12,Nick Fury
+13,Coulson
+14,Maria Hill
+15,Maria Hill
+16,Nick Fury
+17,Maria Hill
+18,Nick Fury
+19,Maria Hill
+20,Nick Fury
+21,Selvig
+22,Nick Fury
+23,Selvig
+24,Nick Fury
+25,Selvig
+26,Nick Fury
+27,Selvig
+28,Selvig
+29,Nick Fury
+30,Selvig
+31,Nick Fury
+32,Nick Fury
+33,nasascientist
+34,barton
+35,Nick Fury
+36,barton
+37,Selvig
+38,Nick Fury
+39,Loki
+40,Nick Fury
+41,Loki
+42,Selvig
+43,Nick Fury
+44,Loki
+45,Nick Fury
+46,Loki
+47,Nick Fury
+48,Nick Fury
+49,barton
+50,Nick Fury
+51,Selvig
+52,Loki
+53,Maria Hill
+54,barton
+55,Nick Fury
+56,Nick Fury
+57,Nick Fury
+58,Coulson
+59,Coulson
+60,Coulson
+61,Coulson
+62,Nick Fury
+63,Maria Hill
+64,Nick Fury
+65,Nick Fury
+66,Maria Hill
+67,Nick Fury
+68,Nick Fury
+69,Nick Fury
+70,georgiluchkov
+71,Black Widow
+72,georgiluchkov
+73,georgiluchkov
+74,georgiluchkov
+75,Black Widow
+76,georgiluchkov
+77,weasellythug
+78,Black Widow
+79,Coulson
+80,Black Widow
+81,georgiluchkov
+82,Black Widow
+83,Coulson
+84,Black Widow
+85,Black Widow
+86,Coulson
+87,Black Widow
+88,Coulson
+89,Coulson
+90,endintercut
+91,Black Widow
+92,calcuttawoman
+93,younggirl
+94,Hulk
+95,younggirl
+96,younggirl
+97,Black Widow
+98,Black Widow
+99,Hulk
+100,Black Widow
+101,Hulk
+102,Black Widow
+103,Hulk
+104,Black Widow
+105,Hulk
+106,Hulk
+107,Black Widow
+108,Hulk
+109,Black Widow
+110,Black Widow
+111,Hulk
+112,Black Widow
+113,Hulk
+114,Black Widow
+115,Hulk
+116,Black Widow
+117,Hulk
+118,Black Widow
+119,Black Widow
+120,Hulk
+121,Black Widow
+122,Hulk
+123,Black Widow
+124,Black Widow
+125,Nick Fury
+126,councilman
+127,Nick Fury
+128,councilwoman
+129,Nick Fury
+130,councilman
+131,Nick Fury
+132,councilman
+133,Nick Fury
+134,councilman
+135,Nick Fury
+136,councilman
+137,Nick Fury
+138,Captain America
+139,Peggy Carter
+140,scientist
+141,Captain America
+142,Nick Fury
+143,Captain America
+144,Nick Fury
+145,Captain America
+146,Captain America
+147,Captain America
+148,Nick Fury
+149,Nick Fury
+150,Captain America
+151,Iron Man
+152,Pepper Potts
+153,Pepper Potts
+154,Iron Man
+155,Pepper Potts
+156,Iron Man
+157,Iron Man
+158,Pepper Potts
+159,Iron Man
+160,Pepper Potts
+161,Vision
+162,Iron Man
+163,Vision
+164,Iron Man
+165,Pepper Potts
+166,Iron Man
+167,Pepper Potts
+168,Iron Man
+169,Pepper Potts
+170,Iron Man
+171,Pepper Potts
+172,Iron Man
+173,Iron Man
+174,Pepper Potts
+175,Iron Man
+176,Iron Man
+177,Pepper Potts
+178,Iron Man
+179,Pepper Potts
+180,Iron Man
+181,Vision
+182,Iron Man
+183,Coulson
+184,Iron Man
+185,Coulson
+186,Iron Man
+187,Pepper Potts
+188,Iron Man
+189,Coulson
+190,Iron Man
+191,Pepper Potts
+192,Coulson
+193,Iron Man
+194,Pepper Potts
+195,Iron Man
+196,Coulson
+197,Iron Man
+198,Iron Man
+199,Pepper Potts
+200,Iron Man
+201,Pepper Potts
+202,Iron Man
+203,Pepper Potts
+204,Iron Man
+205,Pepper Potts
+206,Iron Man
+207,Iron Man
+208,Pepper Potts
+209,Iron Man
+210,Pepper Potts
+211,Coulson
+212,Pepper Potts
+213,Coulson
+214,facelesspilot
+215,Captain America
+216,Coulson
+217,Captain America
+218,Coulson
+219,Captain America
+220,Coulson
+221,Captain America
+222,Coulson
+223,The Other
+224,Loki
+225,The Other
+226,The Other
+227,Loki
+228,The Other
+229,Loki
+230,The Other
+231,Coulson
+232,Captain America
+233,Coulson
+234,Black Widow
+235,Captain America
+236,Black Widow
+237,Captain America
+238,Captain America
+239,Hulk
+240,Black Widow
+241,Captain America
+242,Hulk
+243,carrierbridge
+244,tech
+245,femalecarrier
+246,Maria Hill
+247,Maria Hill
+248,maleagent
+249,Nick Fury
+250,Hulk
+251,Hulk
+252,Coulson
+253,Hulk
+254,Nick Fury
+255,Nick Fury
+256,Black Widow
+257,Black Widow
+258,Nick Fury
+259,Maria Hill
+260,Maria Hill
+261,Nick Fury
+262,barton
+263,Selvig
+264,barton
+265,Selvig
+266,Loki
+267,Selvig
+268,barton
+269,Loki
+270,barton
+271,Loki
+272,barton
+273,Loki
+274,barton
+275,Loki
+276,barton
+277,barton
+278,Loki
+279,barton
+280,Captain America
+281,Coulson
+282,Coulson
+283,Nick Fury
+284,Loki
+285,germanoldman
+286,Loki
+287,Captain America
+288,Captain America
+289,Black Widow
+290,Loki
+291,Iron Man
+292,Iron Man
+293,Captain America
+294,Nick Fury
+295,Black Widow
+296,Nick Fury
+297,Captain America
+298,Captain America
+299,Iron Man
+300,Iron Man
+301,Captain America
+302,Iron Man
+303,Black Widow
+304,Captain America
+305,Loki
+306,Captain America
+307,Iron Man
+308,Black Widow
+309,Captain America
+310,Black Widow
+311,Captain America
+312,Black Widow
+313,Captain America
+314,Black Widow
+315,Captain America
+316,Thor
+317,Loki
+318,Loki
+319,Thor
+320,Loki
+321,Thor
+322,Thor
+323,Loki
+324,Thor
+325,Loki
+326,Loki
+327,Thor
+328,Loki
+329,Thor
+330,Loki
+331,Iron Man
+332,Thor
+333,Iron Man
+334,Iron Man
+335,Vision
+336,Iron Man
+337,Captain America
+338,Captain America
+339,Captain America
+340,Iron Man
+341,Thor
+342,Captain America
+343,Loki
+344,Nick Fury
+345,Loki
+346,Nick Fury
+347,Loki
+348,Nick Fury
+349,Captain America
+350,Thor
+351,Captain America
+352,Hulk
+353,Thor
+354,Hulk
+355,Thor
+356,Black Widow
+357,Captain America
+358,Hulk
+359,Thor
+360,Black Widow
+361,Thor
+362,Hulk
+363,Iron Man
+364,Iron Man
+365,Maria Hill
+366,Iron Man
+367,Iron Man
+368,Captain America
+369,Hulk
+370,Iron Man
+371,Iron Man
+372,Captain America
+373,Iron Man
+374,Captain America
+375,Nick Fury
+376,Thor
+377,Iron Man
+378,Hulk
+379,Hulk
+380,Iron Man
+381,Hulk
+382,Iron Man
+383,Hulk
+384,Iron Man
+385,Hulk
+386,Captain America
+387,Iron Man
+388,Captain America
+389,Iron Man
+390,Captain America
+391,Iron Man
+392,Captain America
+393,Captain America
+394,Captain America
+395,Iron Man
+396,Hulk
+397,Hulk
+398,Captain America
+399,Hulk
+400,Hulk
+401,Iron Man
+402,Iron Man
+403,Captain America
+404,Captain America
+405,Iron Man
+406,Captain America
+407,Iron Man
+408,Iron Man
+409,Hulk
+410,Captain America
+411,Iron Man
+412,Hulk
+413,Iron Man
+414,Iron Man
+415,Hulk
+416,Hulk
+417,Iron Man
+418,Hulk
+419,Iron Man
+420,Coulson
+421,Thor
+422,Coulson
+423,Thor
+424,Coulson
+425,Thor
+426,Coulson
+427,Nick Fury
+428,Thor
+429,Thor
+430,Nick Fury
+431,Thor
+432,Nick Fury
+433,Loki
+434,Black Widow
+435,Black Widow
+436,Loki
+437,Black Widow
+438,Black Widow
+439,Loki
+440,Black Widow
+441,Loki
+442,Black Widow
+443,Loki
+444,Black Widow
+445,Loki
+446,Loki
+447,Loki
+448,Loki
+449,Loki
+450,Loki
+451,Black Widow
+452,Nick Fury
+453,Nick Fury
+454,Hulk
+455,Iron Man
+456,Captain America
+457,Nick Fury
+458,Captain America
+459,Hulk
+460,Black Widow
+461,Hulk
+462,Black Widow
+463,Hulk
+464,Black Widow
+465,Hulk
+466,Nick Fury
+467,Thor
+468,Nick Fury
+469,Thor
+470,Captain America
+471,Captain America
+472,Nick Fury
+473,Nick Fury
+474,Captain America
+475,Captain America
+476,Thor
+477,Thor
+478,Nick Fury
+479,Black Widow
+480,Iron Man
+481,Hulk
+482,Nick Fury
+483,Iron Man
+484,Captain America
+485,Iron Man
+486,Captain America
+487,Hulk
+488,intercomvoice
+489,pilot
+490,Thor
+491,Hulk
+492,Nick Fury
+493,Iron Man
+494,Captain America
+495,Captain America
+496,Iron Man
+497,Captain America
+498,Iron Man
+499,Captain America
+500,Thor
+501,Hulk
+502,Nick Fury
+503,Captain America
+504,Hulk
+505,Iron Man
+506,Captain America
+507,novar
+508,Iron Man
+509,Iron Man
+510,Captain America
+511,Hulk
+512,Captain America
+513,Iron Man
+514,intercomvoice
+515,Nick Fury
+516,Maria Hill
+517,Maria Hill
+518,offscreenworker
+519,Maria Hill
+520,Nick Fury
+521,Nick Fury
+522,Nick Fury
+523,Black Widow
+524,Black Widow
+525,Iron Man
+526,Black Widow
+527,maintenanceguy
+528,Black Widow
+529,Black Widow
+530,Nick Fury
+531,shieldagent
+532,Nick Fury
+533,shieldagent
+534,Iron Man
+535,Iron Man
+536,Captain America
+537,Iron Man
+538,Thor
+539,Captain America
+540,Captain America
+541,Iron Man
+542,Iron Man
+543,Iron Man
+544,Iron Man
+545,Iron Man
+546,endintercut
+547,Nick Fury
+548,Maria Hill
+549,intercomvoice
+550,Maria Hill
+551,Maria Hill
+552,Maria Hill
+553,youngshieldpilot
+554,youngshieldpilot
+555,Nick Fury
+556,intercomvoice
+557,shieldworker
+558,Black Widow
+559,Nick Fury
+560,Iron Man
+561,Loki
+562,Coulson
+563,Loki
+564,Coulson
+565,Loki
+566,Coulson
+567,Loki
+568,Coulson
+569,intercomvoice
+570,Captain America
+571,Iron Man
+572,Coulson
+573,Nick Fury
+574,Coulson
+575,Nick Fury
+576,Coulson
+577,Nick Fury
+578,shieldworker
+579,Nick Fury
+580,Nick Fury
+581,Nick Fury
+582,securityguard
+583,Hulk
+584,securityguard
+585,securityguard
+586,Hulk
+587,securityguard
+588,Hulk
+589,securityguard
+590,securityguard
+591,Hulk
+592,securityguard
+593,Hulk
+594,Hulk
+595,securityguard
+596,Hulk
+597,securityguard
+598,Hulk
+599,securityguard
+600,Hulk
+601,securityguard
+602,Black Widow
+603,barton
+604,Black Widow
+605,barton
+606,Black Widow
+607,barton
+608,Black Widow
+609,barton
+610,Black Widow
+611,barton
+612,Black Widow
+613,barton
+614,barton
+615,Black Widow
+616,barton
+617,Black Widow
+618,barton
+619,Black Widow
+620,Captain America
+621,Iron Man
+622,Captain America
+623,Iron Man
+624,Captain America
+625,Iron Man
+626,Captain America
+627,Iron Man
+628,Iron Man
+629,Captain America
+630,Iron Man
+631,Captain America
+632,Iron Man
+633,Captain America
+634,Captain America
+635,Iron Man
+636,Captain America
+637,Iron Man
+638,Captain America
+639,Black Widow
+640,Captain America
+641,Captain America
+642,barton
+643,Captain America
+644,Captain America
+645,Maria Hill
+646,Maria Hill
+647,Nick Fury
+648,intercomvoice
+649,Nick Fury
+650,Maria Hill
+651,Vision
+652,Iron Man
+653,Vision
+654,Iron Man
+655,Vision
+656,Iron Man
+657,Iron Man
+658,Loki
+659,Iron Man
+660,Loki
+661,Iron Man
+662,Loki
+663,Iron Man
+664,Loki
+665,Iron Man
+666,Loki
+667,Iron Man
+668,Iron Man
+669,Loki
+670,Iron Man
+671,Loki
+672,Loki
+673,Iron Man
+674,Iron Man
+675,Thor
+676,Loki
+677,Thor
+678,Black Widow
+679,Black Widow
+680,Iron Man
+681,Iron Man
+682,barton
+683,Black Widow
+684,Captain America
+685,Captain America
+686,Iron Man
+687,Iron Man
+688,Captain America
+689,Iron Man
+690,Thor
+691,Loki
+692,Thor
+693,Loki
+694,barton
+695,Captain America
+696,Black Widow
+697,Black Widow
+698,barton
+699,youngcop
+700,policesergeant
+701,policesergeant
+702,youngcop
+703,Captain America
+704,policesergeant
+705,policesergeant
+706,Iron Man
+707,Iron Man
+708,Captain America
+709,Thor
+710,Iron Man
+711,Black Widow
+712,barton
+713,Captain America
+714,Black Widow
+715,Black Widow
+716,Captain America
+717,Iron Man
+718,Captain America
+719,Iron Man
+720,Captain America
+721,Loki
+722,Black Widow
+723,Iron Man
+724,Captain America
+725,barton
+726,Iron Man
+727,Captain America
+728,Captain America
+729,Maria Hill
+730,Iron Man
+731,barton
+732,Iron Man
+733,endintercut
+734,Iron Man
+735,Iron Man
+736,barton
+737,Iron Man
+738,Black Widow
+739,Captain America
+740,Black Widow
+741,Captain America
+742,Captain America
+743,Black Widow
+744,Captain America
+745,Captain America
+746,councilwoman
+747,Nick Fury
+748,councilman
+749,Nick Fury
+750,councilman
+751,Nick Fury
+752,Black Widow
+753,Black Widow
+754,barton
+755,endintercut
+756,Loki
+757,Hulk
+758,Selvig
+759,Black Widow
+760,Black Widow
+761,Selvig
+762,Selvig
+763,Vision
+764,Iron Man
+765,Vision
+766,councilwoman
+767,jetpilot
+768,Maria Hill
+769,Nick Fury
+770,Iron Man
+771,Nick Fury
+772,Vision
+773,jetpilot
+774,Thor
+775,Captain America
+776,Selvig
+777,Black Widow
+778,Captain America
+779,Captain America
+780,Iron Man
+781,Iron Man
+782,Captain America
+783,Iron Man
+784,Vision
+785,reporter
+786,reporter
+787,Vision
+788,Black Widow
+789,Captain America
+790,Captain America
+791,Thor
+792,Iron Man
+793,Captain America
+794,Thor
+795,Iron Man
+796,Loki
+797,malereporter
+798,malereporter
+799,malecitizen
+800,femalecitizen
+801,husband
+802,wife
+803,thesenator
+804,reporter
+805,waitress
+806,waitress
+807,councilman
+808,Nick Fury
+809,councilwoman
+810,Nick Fury
+811,councilman
+812,Nick Fury
+813,councilman
+814,councilman
+815,Nick Fury
+816,councilwoman
+817,councilwoman
+818,Nick Fury
+819,Nick Fury
+820,councilman
+821,Nick Fury
+822,Maria Hill
+823,Maria Hill
+824,Nick Fury
+825,Maria Hill
+826,Maria Hill
+827,Nick Fury
+828,The Other
+829,The Other

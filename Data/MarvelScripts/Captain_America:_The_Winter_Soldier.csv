@@ -1,0 +1,822 @@
+0,Thor
+1,Captain America
+2,Captain America
+3,Falcon
+4,Falcon
+5,Captain America
+6,Falcon
+7,Captain America
+8,Falcon
+9,Captain America
+10,Falcon
+11,Falcon
+12,Captain America
+13,Falcon
+14,Captain America
+15,Falcon
+16,Captain America
+17,Falcon
+18,Captain America
+19,Falcon
+20,Captain America
+21,Captain America
+22,Falcon
+23,Captain America
+24,Falcon
+25,Captain America
+26,Captain America
+27,Falcon
+28,Captain America
+29,Falcon
+30,Captain America
+31,Falcon
+32,Black Widow
+33,Captain America
+34,Falcon
+35,Black Widow
+36,Captain America
+37,Falcon
+38,Crossbones
+39,Captain America
+40,Crossbones
+41,Captain America
+42,Crossbones
+43,Captain America
+44,Black Widow
+45,Captain America
+46,Black Widow
+47,Captain America
+48,Crossbones
+49,Crossbones
+50,Captain America
+51,Crossbones
+52,Crossbones
+53,Captain America
+54,Crossbones
+55,Captain America
+56,Black Widow
+57,Captain America
+58,pilot
+59,Black Widow
+60,Captain America
+61,Black Widow
+62,Captain America
+63,strikeagent
+64,Crossbones
+65,frenchpirate
+66,Captain America
+67,Crossbones
+68,Black Widow
+69,Captain America
+70,Black Widow
+71,frenchpirate
+72,Georges Batroc
+73,frenchpirate
+74,frenchpirate
+75,durand
+76,Black Widow
+77,frenchpirate
+78,frenchpirate
+79,frenchpirate
+80,frenchpirate
+81,frenchpirate
+82,frenchpirate
+83,frenchpirate
+84,strikeagent
+85,Crossbones
+86,Captain America
+87,Captain America
+88,Black Widow
+89,Black Widow
+90,frenchpirate
+91,Captain America
+92,Sitwell
+93,frenchpirate
+94,Crossbones
+95,Captain America
+96,Captain America
+97,Georges Batroc
+98,Captain America
+99,Black Widow
+100,Captain America
+101,Black Widow
+102,Captain America
+103,Captain America
+104,Black Widow
+105,Captain America
+106,Black Widow
+107,Black Widow
+108,Captain America
+109,Black Widow
+110,Black Widow
+111,Captain America
+112,Captain America
+113,Nick Fury
+114,Captain America
+115,Nick Fury
+116,Captain America
+117,Nick Fury
+118,Captain America
+119,Nick Fury
+120,Captain America
+121,Nick Fury
+122,Captain America
+123,Nick Fury
+124,Nick Fury
+125,shieldcomputer
+126,Nick Fury
+127,shieldcomputer
+128,Captain America
+129,Nick Fury
+130,Captain America
+131,Nick Fury
+132,Captain America
+133,Nick Fury
+134,Nick Fury
+135,Nick Fury
+136,Nick Fury
+137,Captain America
+138,Nick Fury
+139,Captain America
+140,Nick Fury
+141,Captain America
+142,Nick Fury
+143,Captain America
+144,Nick Fury
+145,Captain America
+146,Nick Fury
+147,Captain America
+148,Nick Fury
+149,Captain America
+150,womanonpa
+151,Peggy Carter
+152,Captain America
+153,Peggy Carter
+154,Peggy Carter
+155,Captain America
+156,Peggy Carter
+157,Captain America
+158,Peggy Carter
+159,Captain America
+160,Peggy Carter
+161,Captain America
+162,Peggy Carter
+163,Captain America
+164,Peggy Carter
+165,Captain America
+166,Nick Fury
+167,shieldcomputer
+168,Nick Fury
+169,shieldcomputer
+170,Nick Fury
+171,shieldcomputer
+172,Nick Fury
+173,shieldcomputer
+174,Nick Fury
+175,shieldcomputer
+176,councilmanrockwell
+177,councilmansingh
+178,councilwomanhawley
+179,councilmanyen
+180,councilmanrockwell
+181,Alexander Pierce
+182,councilmanrockwell
+183,Alexander Pierce
+184,councilmanyen
+185,Alexander Pierce
+186,councilmanrockwell
+187,Alexander Pierce
+188,Alexander Pierce
+189,Nick Fury
+190,Nick Fury
+191,Alexander Pierce
+192,Nick Fury
+193,Alexander Pierce
+194,Nick Fury
+195,Alexander Pierce
+196,Nick Fury
+197,Alexander Pierce
+198,Nick Fury
+199,Alexander Pierce
+200,femalewarveteran
+201,Falcon
+202,femalewarveteran
+203,Falcon
+204,femalewarveteran
+205,Falcon
+206,Captain America
+207,Falcon
+208,Captain America
+209,Falcon
+210,Captain America
+211,Falcon
+212,Captain America
+213,Falcon
+214,Captain America
+215,Falcon
+216,Captain America
+217,furyscar
+218,Nick Fury
+219,furyscar
+220,Maria Hill
+221,Nick Fury
+222,Maria Hill
+223,Nick Fury
+224,furyscar
+225,Nick Fury
+226,furyscar
+227,Nick Fury
+228,furyscar
+229,Nick Fury
+230,furyscar
+231,Nick Fury
+232,furyscar
+233,Nick Fury
+234,furyscar
+235,Nick Fury
+236,furyscar
+237,Nick Fury
+238,furyscar
+239,Nick Fury
+240,furyscar
+241,Nick Fury
+242,furyscar
+243,Nick Fury
+244,furyscar
+245,Nick Fury
+246,furyscar
+247,Agent 13
+248,Captain America
+249,Agent 13
+250,Captain America
+251,Agent 13
+252,Captain America
+253,Agent 13
+254,Captain America
+255,Agent 13
+256,Captain America
+257,Nick Fury
+258,Captain America
+259,Nick Fury
+260,Captain America
+261,Nick Fury
+262,Captain America
+263,Nick Fury
+264,Captain America
+265,Nick Fury
+266,Agent 13
+267,Captain America
+268,Agent 13
+269,Captain America
+270,Agent 13
+271,shieldagent
+272,Captain America
+273,Black Widow
+274,Captain America
+275,Black Widow
+276,Captain America
+277,Black Widow
+278,Maria Hill
+279,Black Widow
+280,Maria Hill
+281,malenurse
+282,femalenurse
+283,doctor
+284,malenurse
+285,doctor
+286,Black Widow
+287,doctor
+288,malenurse
+289,doctor
+290,doctor
+291,malenurse
+292,Black Widow
+293,doctor
+294,femalenurse
+295,doctor
+296,Maria Hill
+297,Captain America
+298,Black Widow
+299,Captain America
+300,Crossbones
+301,Captain America
+302,Crossbones
+303,Captain America
+304,Black Widow
+305,Sitwell
+306,Crossbones
+307,Captain America
+308,Crossbones
+309,Alexander Pierce
+310,Agent 13
+311,Captain America
+312,Alexander Pierce
+313,Captain America
+314,Alexander Pierce
+315,Captain America
+316,Alexander Pierce
+317,Captain America
+318,Alexander Pierce
+319,Captain America
+320,Alexander Pierce
+321,shieldagent
+322,Captain America
+323,Alexander Pierce
+324,Captain America
+325,Alexander Pierce
+326,Captain America
+327,Alexander Pierce
+328,Captain America
+329,Alexander Pierce
+330,Captain America
+331,Alexander Pierce
+332,Captain America
+333,Alexander Pierce
+334,Captain America
+335,Alexander Pierce
+336,Captain America
+337,Captain America
+338,shieldcomputer
+339,Crossbones
+340,strikeagent
+341,strikeagent
+342,Crossbones
+343,shieldcomputer
+344,Crossbones
+345,Captain America
+346,Crossbones
+347,Captain America
+348,Crossbones
+349,shieldagent
+350,shieldagent
+351,shieldcomputer
+352,shieldagent
+353,Crossbones
+354,Captain America
+355,strikeagent
+356,shieldcomputer
+357,Captain America
+358,Sitwell
+359,Crossbones
+360,Captain America
+361,strikeagent
+362,Sitwell
+363,quinjetpilot
+364,Sitwell
+365,Agent 13
+366,Alexander Pierce
+367,Captain America
+368,Black Widow
+369,Captain America
+370,Black Widow
+371,Captain America
+372,Black Widow
+373,Captain America
+374,Black Widow
+375,Captain America
+376,Black Widow
+377,Captain America
+378,Black Widow
+379,Captain America
+380,Black Widow
+381,Captain America
+382,Black Widow
+383,Captain America
+384,Black Widow
+385,Captain America
+386,Alexander Pierce
+387,councilmanrockwell
+388,councilmansingh
+389,Alexander Pierce
+390,councilwomanhawley
+391,Alexander Pierce
+392,councilmanrockwell
+393,Black Widow
+394,Captain America
+395,Black Widow
+396,Captain America
+397,Black Widow
+398,Captain America
+399,Black Widow
+400,appleemployee
+401,Black Widow
+402,Captain America
+403,appleemployee
+404,Captain America
+405,appleemployee
+406,Black Widow
+407,appleemployee
+408,Captain America
+409,Black Widow
+410,Captain America
+411,Black Widow
+412,Captain America
+413,Black Widow
+414,Jack Rollins
+415,Crossbones
+416,shieldagent
+417,shieldagent
+418,Crossbones
+419,Black Widow
+420,Captain America
+421,Black Widow
+422,Captain America
+423,Black Widow
+424,Captain America
+425,Black Widow
+426,Captain America
+427,Black Widow
+428,Captain America
+429,Black Widow
+430,Captain America
+431,Black Widow
+432,Captain America
+433,Black Widow
+434,Captain America
+435,Black Widow
+436,Captain America
+437,Black Widow
+438,Captain America
+439,Black Widow
+440,Captain America
+441,Black Widow
+442,Captain America
+443,Black Widow
+444,Captain America
+445,Black Widow
+446,Captain America
+447,Black Widow
+448,Captain America
+449,Black Widow
+450,Captain America
+451,Black Widow
+452,Captain America
+453,Black Widow
+454,Captain America
+455,Sergeant Duffy
+456,Black Widow
+457,Captain America
+458,Black Widow
+459,Captain America
+460,Black Widow
+461,Captain America
+462,Black Widow
+463,Captain America
+464,Black Widow
+465,computer
+466,Black Widow
+467,Captain America
+468,Dr. Arnim Zola
+469,Black Widow
+470,Dr. Arnim Zola
+471,Black Widow
+472,Captain America
+473,Dr. Arnim Zola
+474,Captain America
+475,Dr. Arnim Zola
+476,Black Widow
+477,Dr. Arnim Zola
+478,Captain America
+479,Dr. Arnim Zola
+480,Captain America
+481,Dr. Arnim Zola
+482,Black Widow
+483,Dr. Arnim Zola
+484,Captain America
+485,Dr. Arnim Zola
+486,Black Widow
+487,Dr. Arnim Zola
+488,Black Widow
+489,Captain America
+490,Black Widow
+491,Dr. Arnim Zola
+492,Crossbones
+493,renata
+494,Alexander Pierce
+495,renata
+496,Alexander Pierce
+497,renata
+498,Alexander Pierce
+499,Falcon
+500,Captain America
+501,Black Widow
+502,Falcon
+503,Captain America
+504,Black Widow
+505,Captain America
+506,Black Widow
+507,Captain America
+508,Black Widow
+509,Captain America
+510,Black Widow
+511,Captain America
+512,Black Widow
+513,Captain America
+514,Falcon
+515,Black Widow
+516,Captain America
+517,Black Widow
+518,Captain America
+519,Black Widow
+520,Captain America
+521,Falcon
+522,Captain America
+523,Falcon
+524,Black Widow
+525,Captain America
+526,Falcon
+527,Black Widow
+528,Falcon
+529,Captain America
+530,Falcon
+531,Captain America
+532,Falcon
+533,Captain America
+534,Falcon
+535,Captain America
+536,Senator Stern
+537,Sitwell
+538,Senator Stern
+539,Sitwell
+540,Senator Stern
+541,Sitwell
+542,Senator Stern
+543,Sitwell
+544,Senator Stern
+545,Sitwell
+546,Falcon
+547,Sitwell
+548,Falcon
+549,Sitwell
+550,Falcon
+551,Sitwell
+552,Falcon
+553,Captain America
+554,Sitwell
+555,Captain America
+556,Sitwell
+557,Captain America
+558,Black Widow
+559,Captain America
+560,Black Widow
+561,Captain America
+562,Sitwell
+563,Captain America
+564,Sitwell
+565,Captain America
+566,Sitwell
+567,Captain America
+568,Sitwell
+569,Captain America
+570,Sitwell
+571,Sitwell
+572,Falcon
+573,Black Widow
+574,Captain America
+575,Sitwell
+576,Falcon
+577,Captain America
+578,wintersoldier
+579,Falcon
+580,Black Widow
+581,Black Widow
+582,Captain America
+583,The Winter Soldier
+584,Crossbones
+585,Captain America
+586,Falcon
+587,Captain America
+588,Black Widow
+589,Captain America
+590,Falcon
+591,Maria Hill
+592,Crossbones
+593,Maria Hill
+594,Falcon
+595,doctor
+596,Maria Hill
+597,Nick Fury
+598,doctor
+599,Nick Fury
+600,Black Widow
+601,Nick Fury
+602,Captain America
+603,Maria Hill
+604,Nick Fury
+605,Dr. Arnim Zola
+606,Captain America
+607,Dr. Arnim Zola
+608,scientist
+609,Alexander Pierce
+610,The Winter Soldier
+611,Alexander Pierce
+612,The Winter Soldier
+613,Alexander Pierce
+614,The Winter Soldier
+615,Alexander Pierce
+616,scientist
+617,Alexander Pierce
+618,Nick Fury
+619,Black Widow
+620,Nick Fury
+621,Falcon
+622,Maria Hill
+623,Nick Fury
+624,Maria Hill
+625,Nick Fury
+626,Captain America
+627,Nick Fury
+628,Captain America
+629,Nick Fury
+630,Captain America
+631,Nick Fury
+632,Captain America
+633,Maria Hill
+634,Falcon
+635,Nick Fury
+636,The Winter Soldier
+637,Captain America
+638,The Winter Soldier
+639,Captain America
+640,The Winter Soldier
+641,Captain America
+642,The Winter Soldier
+643,Captain America
+644,The Winter Soldier
+645,Falcon
+646,Captain America
+647,Falcon
+648,Captain America
+649,Falcon
+650,Captain America
+651,Falcon
+652,Captain America
+653,smithsonianguard
+654,manonpa
+655,shieldtech
+656,womanonpa
+657,Alexander Pierce
+658,councilmanhawley
+659,Alexander Pierce
+660,councilmanrockwell
+661,Alexander Pierce
+662,comtech
+663,comtech
+664,comtech
+665,comtech
+666,comtech
+667,comtech
+668,comtech
+669,manonpa
+670,Captain America
+671,Alexander Pierce
+672,Captain America
+673,Falcon
+674,councilmanrockwell
+675,councilmansingh
+676,Alexander Pierce
+677,Crossbones
+678,shieldtech
+679,Crossbones
+680,shieldtech
+681,Crossbones
+682,Agent 13
+683,Crossbones
+684,Agent 13
+685,shieldagent
+686,Maria Hill
+687,Falcon
+688,Captain America
+689,Falcon
+690,Captain America
+691,Falcon
+692,Alexander Pierce
+693,councilmansingh
+694,Black Widow
+695,charlieweaponstech
+696,Maria Hill
+697,Falcon
+698,Maria Hill
+699,Captain America
+700,councilmanrockwell
+701,Alexander Pierce
+702,Black Widow
+703,Alexander Pierce
+704,Black Widow
+705,Captain America
+706,Maria Hill
+707,Falcon
+708,Maria Hill
+709,shieldpilot
+710,Alexander Pierce
+711,Black Widow
+712,Alexander Pierce
+713,Nick Fury
+714,Alexander Pierce
+715,Nick Fury
+716,Alexander Pierce
+717,Nick Fury
+718,Alexander Pierce
+719,Nick Fury
+720,shieldcomputer
+721,Alexander Pierce
+722,Nick Fury
+723,shieldcomputer
+724,Maria Hill
+725,Captain America
+726,Falcon
+727,Captain America
+728,Falcon
+729,Captain America
+730,Falcon
+731,Captain America
+732,Falcon
+733,Captain America
+734,shieldagent
+735,hydradispatch
+736,Crossbones
+737,hydradispatch
+738,Crossbones
+739,Maria Hill
+740,Falcon
+741,Maria Hill
+742,Falcon
+743,Captain America
+744,Black Widow
+745,Alexander Pierce
+746,Captain America
+747,Crossbones
+748,Falcon
+749,Alexander Pierce
+750,charliexo
+751,Maria Hill
+752,Captain America
+753,charlieweaponstech
+754,charliexo
+755,charlieweaponstech
+756,Alexander Pierce
+757,charlieweaponstech
+758,charliexo
+759,charlieweaponstech
+760,Captain America
+761,charliexo
+762,Maria Hill
+763,Captain America
+764,Maria Hill
+765,Captain America
+766,Alexander Pierce
+767,Black Widow
+768,Alexander Pierce
+769,Nick Fury
+770,Alexander Pierce
+771,Nick Fury
+772,Black Widow
+773,Alexander Pierce
+774,Crossbones
+775,Falcon
+776,Black Widow
+777,Falcon
+778,Black Widow
+779,Falcon
+780,Nick Fury
+781,Black Widow
+782,Captain America
+783,The Winter Soldier
+784,Captain America
+785,The Winter Soldier
+786,Captain America
+787,The Winter Soldier
+788,Captain America
+789,Captain America
+790,bailiff
+791,Black Widow
+792,committeegeneral
+793,Black Widow
+794,committeegeneral
+795,Black Widow
+796,committeegeneral
+797,scudder
+798,Black Widow
+799,scudder
+800,Black Widow
+801,Nick Fury
+802,Captain America
+803,Nick Fury
+804,Captain America
+805,Nick Fury
+806,Falcon
+807,Nick Fury
+808,Black Widow
+809,Captain America
+810,Black Widow
+811,Captain America
+812,Black Widow
+813,Captain America
+814,Black Widow
+815,Captain America
+816,Black Widow
+817,Captain America
+818,Black Widow
+819,Falcon
+820,Captain America
+821,Falcon

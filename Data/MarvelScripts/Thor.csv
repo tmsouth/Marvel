@@ -1,0 +1,873 @@
+0,Jane Foster
+1,Selvig
+2,Jane Foster
+3,Selvig
+4,Jane Foster
+5,Selvig
+6,Jane Foster
+7,Selvig
+8,Jane Foster
+9,Jane Foster
+10,Jane Foster
+11,Darcy Lewis
+12,Jane Foster
+13,Darcy Lewis
+14,Jane Foster
+15,Darcy Lewis
+16,Jane Foster
+17,Selvig
+18,Jane Foster
+19,Jane Foster
+20,Selvig
+21,Jane Foster
+22,Darcy Lewis
+23,Jane Foster
+24,Darcy Lewis
+25,Jane Foster
+26,Darcy Lewis
+27,aman
+28,Darcy Lewis
+29,Jane Foster
+30,Darcy Lewis
+31,Jane Foster
+32,Darcy Lewis
+33,Jane Foster
+34,Selvig
+35,Jane Foster
+36,Selvig
+37,Jane Foster
+38,odinallfather
+39,Odin
+40,Frigga
+41,Odin
+42,Frigga
+43,Odin
+44,Frigga
+45,Odin
+46,Frigga
+47,Odin
+48,Frigga
+49,Odin
+50,Thor
+51,Loki
+52,Thor
+53,Loki
+54,Thor
+55,Loki
+56,Thor
+57,Loki
+58,Thor
+59,Loki
+60,Thor
+61,Loki
+62,Thor
+63,Loki
+64,Thor
+65,Loki
+66,Thor
+67,Fandral
+68,Fandral
+69,Sif
+70,Volstagg
+71,Fandral
+72,Volstagg
+73,Fandral
+74,Sif
+75,Fandral
+76,Sif
+77,Frigga
+78,Thor
+79,Frigga
+80,Thor
+81,Frigga
+82,Thor
+83,Frigga
+84,Odin
+85,Volstagg
+86,Loki
+87,Volstagg
+88,Sif
+89,Fandral
+90,Loki
+91,mjolnir
+92,Sif
+93,Odin
+94,Odin
+95,Odin
+96,Thor
+97,Odin
+98,Thor
+99,Odin
+100,Thor
+101,Odin
+102,Sif
+103,Volstagg
+104,Fandral
+105,Volstagg
+106,Sif
+107,Thor
+108,Odin
+109,Thor
+110,Odin
+111,Thor
+112,Odin
+113,Thor
+114,Odin
+115,Thor
+116,Odin
+117,Thor
+118,Odin
+119,Thor
+120,Odin
+121,Thor
+122,Odin
+123,Thor
+124,Odin
+125,Sif
+126,Volstagg
+127,Hogun
+128,Fandral
+129,Volstagg
+130,Thor
+131,Loki
+132,Thor
+133,Loki
+134,Thor
+135,Loki
+136,Thor
+137,Loki
+138,Volstagg
+139,Loki
+140,Thor
+141,Fandral
+142,Sif
+143,Fandral
+144,Volstagg
+145,Thor
+146,Sif
+147,Thor
+148,Fandral
+149,Thor
+150,volstagghogun
+151,Thor
+152,Sif
+153,Thor
+154,Loki
+155,Thor
+156,Loki
+157,Volstagg
+158,Fandral
+159,Hogun
+160,Sif
+161,Volstagg
+162,Thor
+163,Volstagg
+164,Fandral
+165,Volstagg
+166,Fandral
+167,Volstagg
+168,Loki
+169,Heimdall
+170,Loki
+171,Heimdall
+172,Fandral
+173,Loki
+174,Thor
+175,Heimdall
+176,Thor
+177,Volstagg
+178,Loki
+179,Heimdall
+180,Thor
+181,Heimdall
+182,Heimdall
+183,Volstagg
+184,Heimdall
+185,Volstagg
+186,Thor
+187,Thor
+188,Volstagg
+189,Fandral
+190,Hogun
+191,Thor
+192,Fandral
+193,Loki
+194,Thor
+195,Loki
+196,Volstagg
+197,Thor
+198,Sif
+199,Thor
+200,Fandral
+201,Thor
+202,Fandral
+203,Volstagg
+204,Sif
+205,Thor
+206,Hogun
+207,Sif
+208,Fandral
+209,Sif
+210,Thor
+211,jotunsentry
+212,Thor
+213,Laufey
+214,Thor
+215,Laufey
+216,Thor
+217,Laufey
+218,Thor
+219,Laufey
+220,Thor
+221,Laufey
+222,Thor
+223,Laufey
+224,Thor
+225,Loki
+226,Thor
+227,Laufey
+228,Loki
+229,jotun
+230,Loki
+231,Volstagg
+232,Fandral
+233,Thor
+234,Fandral
+235,Volstagg
+236,Fandral
+237,Volstagg
+238,Hogun
+239,Sif
+240,Loki
+241,Thor
+242,Sif
+243,Volstagg
+244,Sif
+245,Volstagg
+246,Hogun
+247,Volstagg
+248,Fandral
+249,Volstagg
+250,Fandral
+251,Volstagg
+252,Fandral
+253,Volstagg
+254,Thor
+255,Loki
+256,Volstagg
+257,Loki
+258,Thor
+259,Sif
+260,Thor
+261,Sif
+262,Volstagg
+263,Loki
+264,Thor
+265,Volstagg
+266,odinallfather
+267,Odin
+268,Laufey
+269,Odin
+270,Laufey
+271,Odin
+272,Thor
+273,Odin
+274,Thor
+275,Odin
+276,Thor
+277,Odin
+278,Thor
+279,Odin
+280,Thor
+281,Odin
+282,Thor
+283,Odin
+284,Loki
+285,Odin
+286,Jane Foster
+287,Thor
+288,Darcy Lewis
+289,Jane Foster
+290,Selvig
+291,Jane Foster
+292,Thor
+293,Jane Foster
+294,Selvig
+295,Thor
+296,Selvig
+297,Thor
+298,Jane Foster
+299,Selvig
+300,Thor
+301,Darcy Lewis
+302,Thor
+303,Darcy Lewis
+304,Selvig
+305,omitted
+306,admissionsnurse
+307,Jane Foster
+308,admissionsnurse
+309,Jane Foster
+310,Darcy Lewis
+311,Jane Foster
+312,admissionsnurse
+313,Jane Foster
+314,admissionsnurse
+315,Jane Foster
+316,admissionsnurse
+317,Selvig
+318,nurse
+319,Thor
+320,nurse
+321,Thor
+322,orderly
+323,Thor
+324,townie
+325,Jane Foster
+326,Selvig
+327,Jane Foster
+328,Selvig
+329,Jane Foster
+330,Selvig
+331,Jane Foster
+332,Selvig
+333,Jane Foster
+334,Selvig
+335,Jane Foster
+336,Selvig
+337,Jane Foster
+338,Darcy Lewis
+339,Selvig
+340,Darcy Lewis
+341,Jane Foster
+342,Selvig
+343,Jane Foster
+344,Selvig
+345,Jane Foster
+346,Darcy Lewis
+347,Selvig
+348,Jane Foster
+349,Frigga
+350,Odin
+351,Frigga
+352,Odin
+353,Frigga
+354,Odin
+355,Frigga
+356,Odin
+357,Thor
+358,admissionsnurse
+359,Jane Foster
+360,admissionsnurse
+361,Jane Foster
+362,admissionsnurse
+363,Jane Foster
+364,Darcy Lewis
+365,Jane Foster
+366,Selvig
+367,Jane Foster
+368,Darcy Lewis
+369,Selvig
+370,Jane Foster
+371,Jane Foster
+372,Thor
+373,Darcy Lewis
+374,Jane Foster
+375,Volstagg
+376,Sif
+377,Fandral
+378,Volstagg
+379,Loki
+380,Fandral
+381,Loki
+382,Volstagg
+383,Loki
+384,Sif
+385,Loki
+386,Sif
+387,Volstagg
+388,Hogun
+389,Fandral
+390,Hogun
+391,Volstagg
+392,Fandral
+393,Sif
+394,Volstagg
+395,Sif
+396,Fandral
+397,Sif
+398,Loki
+399,Odin
+400,Loki
+401,Odin
+402,Loki
+403,Odin
+404,Loki
+405,Odin
+406,Loki
+407,Odin
+408,Loki
+409,Odin
+410,Loki
+411,Odin
+412,Loki
+413,Odin
+414,Loki
+415,Odin
+416,Loki
+417,Odin
+418,Loki
+419,omitted
+420,omitted
+421,eagertownie
+422,Coulson
+423,Darcy Lewis
+424,Jane Foster
+425,Thor
+426,Jane Foster
+427,Thor
+428,Selvig
+429,Jane Foster
+430,Thor
+431,Jane Foster
+432,Frigga
+433,Loki
+434,Frigga
+435,Loki
+436,Frigga
+437,Loki
+438,Frigga
+439,Loki
+440,Frigga
+441,Jane Foster
+442,Darcy Lewis
+443,Thor
+444,Darcy Lewis
+445,Thor
+446,Jane Foster
+447,isabela
+448,Jane Foster
+449,Thor
+450,Jane Foster
+451,Thor
+452,Jane Foster
+453,Thor
+454,Jane Foster
+455,Thor
+456,Jane Foster
+457,isabela
+458,towniepete
+459,isabela
+460,towniepete
+461,Jane Foster
+462,Darcy Lewis
+463,Selvig
+464,Thor
+465,pete
+466,Jane Foster
+467,Thor
+468,Jane Foster
+469,Thor
+470,Jane Foster
+471,Thor
+472,Jane Foster
+473,Thor
+474,Jane Foster
+475,Thor
+476,Darcy Lewis
+477,when
+478,Selvig
+479,Jane Foster
+480,Selvig
+481,Jane Foster
+482,Selvig
+483,Jane Foster
+484,Selvig
+485,Jane Foster
+486,Thor
+487,Jane Foster
+488,Thor
+489,Selvig
+490,Sif
+491,Loki
+492,Volstagg
+493,Loki
+494,Fandral
+495,Loki
+496,Sif
+497,Loki
+498,Sif
+499,Loki
+500,Fandral
+501,Jane Foster
+502,Jane Foster
+503,Coulson
+504,Jane Foster
+505,Selvig
+506,Jane Foster
+507,Coulson
+508,Jane Foster
+509,Coulson
+510,Jane Foster
+511,Coulson
+512,Jane Foster
+513,Coulson
+514,Jane Foster
+515,understandingsomething
+516,Coulson
+517,Jane Foster
+518,Darcy Lewis
+519,Selvig
+520,Jane Foster
+521,Darcy Lewis
+522,Jane Foster
+523,Selvig
+524,Jane Foster
+525,Selvig
+526,Darcy Lewis
+527,Selvig
+528,Thor
+529,Thor
+530,Jane Foster
+531,librarian
+532,omitted
+533,Jane Foster
+534,Thor
+535,Jane Foster
+536,Thor
+537,Jane Foster
+538,Thor
+539,Jane Foster
+540,Thor
+541,Jane Foster
+542,Thor
+543,Jane Foster
+544,Thor
+545,Jane Foster
+546,Thor
+547,Jane Foster
+548,Jane Foster
+549,Thor
+550,Jane Foster
+551,Thor
+552,Jane Foster
+553,Thor
+554,Jane Foster
+555,cutto
+556,techie
+557,Sitwell
+558,techie
+559,Sitwell
+560,agentjackson
+561,agentdelancey
+562,Sitwell
+563,shieldagent
+564,Sitwell
+565,Jane Foster
+566,omitted
+567,Coulson
+568,Coulson
+569,barton
+570,Thor
+571,Jane Foster
+572,Coulson
+573,Coulson
+574,omitted
+575,Jane Foster
+576,Selvig
+577,Jane Foster
+578,Darcy Lewis
+579,Jane Foster
+580,Selvig
+581,Jane Foster
+582,Selvig
+583,Jane Foster
+584,Selvig
+585,Jane Foster
+586,Selvig
+587,Jane Foster
+588,Jane Foster
+589,Selvig
+590,Darcy Lewis
+591,Jane Foster
+592,Selvig
+593,Darcy Lewis
+594,Coulson
+595,Thor
+596,Coulson
+597,Thor
+598,Loki
+599,Thor
+600,Loki
+601,Thor
+602,Loki
+603,Thor
+604,Loki
+605,Thor
+606,Loki
+607,Thor
+608,Loki
+609,Thor
+610,Coulson
+611,Sitwell
+612,Coulson
+613,Selvig
+614,Coulson
+615,Selvig
+616,Coulson
+617,Selvig
+618,Coulson
+619,Selvig
+620,Coulson
+621,Selvig
+622,Coulson
+623,Selvig
+624,Selvig
+625,Coulson
+626,Selvig
+627,Thor
+628,Selvig
+629,Coulson
+630,Laufey
+631,Loki
+632,Laufey
+633,Loki
+634,Laufey
+635,Loki
+636,Laufey
+637,Loki
+638,Laufey
+639,Loki
+640,Laufey
+641,Loki
+642,Laufey
+643,Loki
+644,Laufey
+645,Loki
+646,Laufey
+647,Loki
+648,Heimdall
+649,Loki
+650,Heimdall
+651,Loki
+652,Heimdall
+653,Loki
+654,Heimdall
+655,Loki
+656,Heimdall
+657,Loki
+658,Selvig
+659,Thor
+660,Selvig
+661,Thor
+662,Selvig
+663,Thor
+664,Selvig
+665,Thor
+666,Selvig
+667,Thor
+668,Selvig
+669,Thor
+670,Selvig
+671,Thor
+672,drunktownie
+673,Thor
+674,drunktownie
+675,Selvig
+676,thorselvig
+677,Thor
+678,Jane Foster
+679,Thor
+680,Jane Foster
+681,Thor
+682,Jane Foster
+683,Selvig
+684,Thor
+685,Jane Foster
+686,Jane Foster
+687,Thor
+688,Jane Foster
+689,Thor
+690,Jane Foster
+691,Thor
+692,Jane Foster
+693,Thor
+694,Jane Foster
+695,Thor
+696,Jane Foster
+697,Thor
+698,Fandral
+699,Volstagg
+700,Sif
+701,Hogun
+702,Fandral
+703,Volstagg
+704,Fandral
+705,Sif
+706,einherjarguard
+707,Volstagg
+708,Selvig
+709,Darcy Lewis
+710,Thor
+711,omitted
+712,omitted
+713,Agent Garrett
+714,agentcale
+715,Agent Garrett
+716,agentcale
+717,Thor
+718,Darcy Lewis
+719,Thor
+720,Thor
+721,isabel
+722,Thor
+723,isabel
+724,Volstagg
+725,Heimdall
+726,Sif
+727,Heimdall
+728,Volstagg
+729,Heimdall
+730,Fandral
+731,Volstagg
+732,Sif
+733,Coulson
+734,techie
+735,Coulson
+736,Volstagg
+737,Fandral
+738,Sif
+739,Fandral
+740,Volstagg
+741,Sif
+742,Volstagg
+743,Agent Garrett
+744,agentcale
+745,Volstagg
+746,einherjarguard
+747,Heimdall
+748,Loki
+749,Heimdall
+750,Loki
+751,Thor
+752,Selvig
+753,Darcy Lewis
+754,Volstagg
+755,Jane Foster
+756,Volstagg
+757,Thor
+758,Fandral
+759,Thor
+760,Sif
+761,Coulson
+762,Darcy Lewis
+763,shieldagent
+764,Coulson
+765,Thor
+766,Jane Foster
+767,Thor
+768,Volstagg
+769,Fandral
+770,Sif
+771,Thor
+772,omitted
+773,Loki
+774,Destroyer
+775,omitted
+776,Sif
+777,Fandral
+778,Volstagg
+779,Fandral
+780,Volstagg
+781,Thor
+782,Fandral
+783,Volstagg
+784,Sif
+785,Jane Foster
+786,Selvig
+787,Thor
+788,Jane Foster
+789,Selvig
+790,Thor
+791,Sif
+792,Thor
+793,Sif
+794,Thor
+795,Fandral
+796,Thor
+797,Selvig
+798,Jane Foster
+799,Coulson
+800,Darcy Lewis
+801,Volstagg
+802,Thor
+803,Thor
+804,Volstagg
+805,Fandral
+806,Darcy Lewis
+807,Thor
+808,Volstagg
+809,Fandral
+810,Thor
+811,Coulson
+812,Thor
+813,Thor
+814,Laufey
+815,Loki
+816,Frigga
+817,Frigga
+818,Loki
+819,Thor
+820,Frigga
+821,Thor
+822,Loki
+823,Thor
+824,Loki
+825,Thor
+826,Loki
+827,Thor
+828,Loki
+829,Thor
+830,Loki
+831,Thor
+832,Loki
+833,Thor
+834,Loki
+835,Thor
+836,Loki
+837,Thor
+838,Loki
+839,Selvig
+840,Jane Foster
+841,Loki
+842,Loki
+843,lokis
+844,Thor
+845,Loki
+846,Thor
+847,odinallfather
+848,Odin
+849,Jane Foster
+850,Volstagg
+851,Fandral
+852,Volstagg
+853,Fandral
+854,Hogun
+855,Fandral
+856,Sif
+857,Frigga
+858,Sif
+859,Frigga
+860,Sif
+861,Odin
+862,Thor
+863,Odin
+864,Thor
+865,Heimdall
+866,Thor
+867,Darcy Lewis
+868,Jane Foster
+869,Darcy Lewis
+870,Jane Foster
+871,fadeout
+872,theend
